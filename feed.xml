@@ -3,12 +3,84 @@
     <title>Bstan Homes</title>
     <link href="https://dbugtech.com/bstan-preview/feed.xml" rel="self" />
     <link href="https://dbugtech.com/bstan-preview" />
-    <updated>2019-03-11T15:38:46+01:00</updated>
+    <updated>2019-03-11T23:47:31+01:00</updated>
     <author>
         <name>Dbug Tech</name>
     </author>
     <id>https://dbugtech.com/bstan-preview</id>
 
+    <entry>
+        <title>Contact us</title>
+        <author>
+            <name>Dbug Tech</name>
+        </author>
+        <link href="https://dbugtech.com/bstan-preview/contact-us/"/>
+        <id>https://dbugtech.com/bstan-preview/contact-us/</id>
+
+        <updated>2019-03-11T18:23:46+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Upcoming Events</title>
+        <author>
+            <name>Dbug Tech</name>
+        </author>
+        <link href="https://dbugtech.com/bstan-preview/upcoming-events/"/>
+        <id>https://dbugtech.com/bstan-preview/upcoming-events/</id>
+
+        <updated>2019-03-11T17:34:29+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Past Events</title>
+        <author>
+            <name>Dbug Tech</name>
+        </author>
+        <link href="https://dbugtech.com/bstan-preview/past-events/"/>
+        <id>https://dbugtech.com/bstan-preview/past-events/</id>
+
+        <updated>2019-03-11T17:34:06+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Cherryfield Estate</title>
+        <author>
+            <name>Dbug Tech</name>
+        </author>
+        <link href="https://dbugtech.com/bstan-preview/cherryfield-estate/"/>
+        <id>https://dbugtech.com/bstan-preview/cherryfield-estate/</id>
+
+        <updated>2019-03-11T17:33:42+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>BGC Pinalce Estate</title>
+        <author>
+            <name>Dbug Tech</name>
+        </author>
+        <link href="https://dbugtech.com/bstan-preview/bgc-pinalce-estate/"/>
+        <id>https://dbugtech.com/bstan-preview/bgc-pinalce-estate/</id>
+
+        <updated>2019-03-11T17:33:19+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Casablanca Estate</title>
+        <author>
+            <name>Dbug Tech</name>
+        </author>
+        <link href="https://dbugtech.com/bstan-preview/casablanca-estate/"/>
+        <id>https://dbugtech.com/bstan-preview/casablanca-estate/</id>
+
+        <updated>2019-03-11T17:33:01+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>events</title>
         <author>
@@ -552,17 +624,5 @@
 <div class="cookie-popup js-cookie-popup cookie-popup--uses-badge"><span class="cookie-popup-label">Cookie Policy</span></div>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>services</title>
-        <author>
-            <name>Dbug Tech</name>
-        </author>
-        <link href="https://dbugtech.com/bstan-preview/services/"/>
-        <id>https://dbugtech.com/bstan-preview/services/</id>
-
-        <updated>2019-03-07T12:25:16+01:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
 </feed>

@@ -10,6 +10,78 @@
     },
     "items": [
         {
+            "id": "https://dbugtech.com/bstan-preview/contact-us/",
+            "url": "https://dbugtech.com/bstan-preview/contact-us/",
+            "title": "Contact us",
+            "author": {
+                "name": "Dbug Tech"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-11T18:23:46+01:00",
+            "date_modified": "2019-03-11T18:23:46+01:00"
+        },
+        {
+            "id": "https://dbugtech.com/bstan-preview/upcoming-events/",
+            "url": "https://dbugtech.com/bstan-preview/upcoming-events/",
+            "title": "Upcoming Events",
+            "author": {
+                "name": "Dbug Tech"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-11T17:34:29+01:00",
+            "date_modified": "2019-03-11T17:34:29+01:00"
+        },
+        {
+            "id": "https://dbugtech.com/bstan-preview/past-events/",
+            "url": "https://dbugtech.com/bstan-preview/past-events/",
+            "title": "Past Events",
+            "author": {
+                "name": "Dbug Tech"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-11T17:34:06+01:00",
+            "date_modified": "2019-03-11T17:34:06+01:00"
+        },
+        {
+            "id": "https://dbugtech.com/bstan-preview/cherryfield-estate/",
+            "url": "https://dbugtech.com/bstan-preview/cherryfield-estate/",
+            "title": "Cherryfield Estate",
+            "author": {
+                "name": "Dbug Tech"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-11T17:33:42+01:00",
+            "date_modified": "2019-03-11T17:33:42+01:00"
+        },
+        {
+            "id": "https://dbugtech.com/bstan-preview/bgc-pinalce-estate/",
+            "url": "https://dbugtech.com/bstan-preview/bgc-pinalce-estate/",
+            "title": "BGC Pinalce Estate",
+            "author": {
+                "name": "Dbug Tech"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-11T17:33:19+01:00",
+            "date_modified": "2019-03-11T17:33:19+01:00"
+        },
+        {
+            "id": "https://dbugtech.com/bstan-preview/casablanca-estate/",
+            "url": "https://dbugtech.com/bstan-preview/casablanca-estate/",
+            "title": "Casablanca Estate",
+            "author": {
+                "name": "Dbug Tech"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-03-11T17:33:01+01:00",
+            "date_modified": "2019-03-11T17:33:01+01:00"
+        },
+        {
             "id": "https://dbugtech.com/bstan-preview/events/",
             "url": "https://dbugtech.com/bstan-preview/events/",
             "title": "events",
@@ -60,18 +132,6 @@
             ],
             "date_published": "2019-03-09T21:52:11+01:00",
             "date_modified": "2019-03-09T21:52:11+01:00"
-        },
-        {
-            "id": "https://dbugtech.com/bstan-preview/services/",
-            "url": "https://dbugtech.com/bstan-preview/services/",
-            "title": "services",
-            "author": {
-                "name": "Dbug Tech"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-03-07T12:25:16+01:00",
-            "date_modified": "2019-03-07T12:25:16+01:00"
         }
     ]
 }
