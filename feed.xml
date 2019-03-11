@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Bstan Homes</title>
+    <link href="https://dbugtech.com/bstan-preview/feed.xml" rel="self" />
+    <link href="https://dbugtech.com/bstan-preview" />
+    <updated>2019-03-11T15:38:46+01:00</updated>
+    <author>
+        <name>Dbug Tech</name>
+    </author>
+    <id>https://dbugtech.com/bstan-preview</id>
+
+    <entry>
+        <title>events</title>
+        <author>
+            <name>Dbug Tech</name>
+        </author>
+        <link href="https://dbugtech.com/bstan-preview/events/"/>
+        <id>https://dbugtech.com/bstan-preview/events/</id>
+
+        <updated>2019-03-10T14:31:35+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>projects</title>
+        <author>
+            <name>Dbug Tech</name>
+        </author>
+        <link href="https://dbugtech.com/bstan-preview/projects/"/>
+        <id>https://dbugtech.com/bstan-preview/projects/</id>
+
+        <updated>2019-03-10T14:31:24+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>about</title>
+        <author>
+            <name>Dbug Tech</name>
+        </author>
+        <link href="https://dbugtech.com/bstan-preview/about/"/>
+        <id>https://dbugtech.com/bstan-preview/about/</id>
+
+        <updated>2019-03-10T14:29:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                    HOMEABOUT USSERVICESPROJECTSEVENTSCONTACT×Gwarimpa DistrictCasablanca EstateCasablanca Estate are beautifully finished Smart Homes, l ocated at Road 35, along #rd Avenue, Gwarimpa District, Abuja. An oasis of greenery set on the hill of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <header><nav class="navbar navbar-custom navbar-default affix"  >
+<div class="container">
+<div class="row">
+<div class="navbar-header navbar-header-custom"><a href="https://kxngnathan-pkwork.glitch.me/index.html" class="navbar-logo"><img src="https://via.placeholder.com/50" alt="logo"></a></div>
+<div id="bstan-navbar-collapse-1" class="collapse navbar-collapse">
+<ul class="nav navbar-links-custom navbar-nav navbar-right">
+<li><a href="https://kxngnathan-pkwork.glitch.me/index.html">HOME</a></li>
+<li><a href="https://kxngnathan-pkwork.glitch.me/about.html">ABOUT US</a></li>
+<li class="dropdown"><a href="https://kxngnathan-pkwork.glitch.me/services.html" class="dropdown-toggle" aria-expanded="false" aria-haspopup="true" >SERVICES</a></li>
+<li class="dropdown"><a href="https://kxngnathan-pkwork.glitch.me/" class="dropdown-toggle" aria-expanded="false" aria-haspopup="true" >PROJECTS</a></li>
+<li class="dropdown"><a href="https://kxngnathan-pkwork.glitch.me/" class="dropdown-toggle" aria-expanded="false" aria-haspopup="true" >EVENTS</a></li>
+<li><a href="https://kxngnathan-pkwork.glitch.me/contact.html">CONTACT</a></li>
+<li class="search-holder"><i class="fa fa-search" aria-hidden="true"></i></li>
+</ul>
+<div id="search_nav" class="search-overlay"><a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+<div class="search-overlay-content"><form><input type="text" placeholder="Search ..."></form></div>
+</div>
+</div>
+</div>
+</div>
+</nav></header>
+<div class="swiper-container swiper-container-horizontal">
+<div class="swiper-wrapper">
+<div class="slide-item swiper-slide">
+<div class="container">
+<div class="row">
+<div class="center-holder col-md-12">
+<div class="slider-content">
+<div class="center-holder pre-title-center" >Gwarimpa District</div>
+<div class="title-center"  >Casablanca<br>Estate</div>
+<div class="text-center" >
+<p>Casablanca Estate are beautifully finished Smart Homes, l ocated at Road 35, along #rd Avenue, Gwarimpa District, Abuja.</p>
+</div>
+<div class="mt-30"><a href="https://kxngnathan-pkwork.glitch.me/casablanca-estate.html" class="button-md dark-button">Read More</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slide-item swiper-slide swiper-slide-prev">
+<div class="container">
+<div class="row">
+<div class="center-holder col-md-12">
+<div class="slider-content">
+<div class="center-holder pre-title-center" >City Hilltop</div>
+<div class="title-center"  >Bstan <br>Garden</div>
+<div class="text-center" >
+<p>An oasis of greenery set on the hill of Apo</p>
+</div>
+<div class="mt-30"><a href="https://kxngnathan-pkwork.glitch.me/" class="button-md dark-button">Read More</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="slide-item swiper-slide swiper-slide-active">
+<div class="container">
+<div class="row">
+<div class="center-holder col-md-12">
+<div class="slider-content">
+<div class="center-holder pre-title-center" >Kubwa District</div>
+<div class="title-center"  >Luxury<br>Residence here</div>
+<div class="text-center" >
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum mattis velit, sit amet faucibus felis iaculis nec.</p>
+</div>
+<div class="mt-30"><a href="https://kxngnathan-pkwork.glitch.me/" class="button-md dark-button">Read More</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-pagination swiper-pagination-white swiper-pagination-clickable swiper-pagination-bullets"> </div>
+<div class="swiper-button-white swiper-button-next swiper-button-disabled"> </div>
+<div class="swiper-button-white swiper-button-prev"> </div>
+</div>
+<div class="section-block-bg">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-md-6 col-sm-7">
+<div class="section-heading">
+<h2 id="mcetoc_1d5jsmus80" class="animated fadeInLeft wow">ABOUT US</h2>
+<h3 id="mcetoc_1d5jsmus81">Welcome! We are Bstan.<br>We Provide Affordable Housing<br>Solutions for All</h3>
+</div>
+<div class="text-content">
+<p>We Provide Personal and Corporate Housing Solutions and making buying and selling of real estate as cost effective as possible while maintaining the highest level of service. We provide accurate and up-to- date information, skilled analysis and sound real estate advice. We continually explore new ideas and technology, to make the selling and buying of real estate faster, less costly, and easier.</p>
+</div>
+<div class="text-content">
+<p>At Bstan Homes we are one of the foremost leading real estate and homeowner service company from Africa, always exceeding our customers’ expectations. As we provide the most professional, informative, loyal and dedicated service in the industry. The best interests of our clients will always come first and we will place the clients’ concerns ahead of our own in each and every transaction, as we are dedicated to the development of long-term client relationships! Our team-approach philosophy ensures your needs are important to each and every member of our organization.</p>
+</div>
+<div class="row"> </div>
+<div class="mt-30 mb-15"><a href="https://kxngnathan-pkwork.glitch.me/about.html" class="button-md dark-button">Read More</a></div>
+</div>
+<div class="col-xs-12 col-md-offset-1 col-sm-5 col-md-5">
+<div class="col-xs-12 col-md-6 col-sm-7"> </div>
+<div class="outline-bordered-right"><img src="https://via.placeholder.com/468x610" alt="img"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="section-block">
+<div id="particles-js"> </div>
+<div class="container">
+<div class="section-heading">
+<h2 id="mcetoc_1d5jsmus82" class="animated fadeInLeft wow">OUR PROJECTS</h2>
+</div>
+<div class="row project-row" >
+<div class="col-xs-12 col-sm-7 col-md-7" >
+<div class="outline-bordered-left"><img src="https://via.placeholder.com/653x436" alt="img"></div>
+</div>
+<div class="col-xs-12 col-md-4 col-md-offset-1 col-sm-5" >
+<div class="project-title">
+<h3 id="mcetoc_1d5jsmus83">01</h3>
+<h2 id="mcetoc_1d5jsmus84">CASABLANCA ESTATE, Gwarimpa</h2>
+</div>
+<div class="mt-30 text-content">
+<p>Casablanca is a beautifully finished Smart Homes, located at 35, along 3rd Avenue, Gwaripa District, Abuja.</p>
+<p>Casablanca is a beautifully finished Smart Homes, located at Road 35, along 3 rd Avenue, Gwarimpa District, Abuja. Don't miss your chance to live in your next dream home</p>
+</div>
+<div class="mt-30 mb-15"><a href="https://kxngnathan-pkwork.glitch.me/projects.html" class="button-md dark-button">Read More</a></div>
+</div>
+</div>
+<div class="row project-row mt-100" >
+<div class="col-xs-12 col-sm-6 col-md-6" >
+<div class="project-title">
+<h3 id="mcetoc_1d5jsmus85">02</h3>
+<h2 id="mcetoc_1d5jsmus86">BSTAN GARDEN, City Hilltop Apo</h2>
+</div>
+<div class="mt-30 text-content">
+<p>An oasis of greenery set on the hill of Apo, the natural city hill also showcased beautifully as an architectural device that create lines of sight and rythm across the area</p>
+<p>A sanctuary of luxurious tranquility,</p>
+</div>
+<div class="mt-30 mb-15"><a href="https://kxngnathan-pkwork.glitch.me/" class="button-md dark-button">Read More</a></div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6" >
+<div class="outline-bordered-right"><img src="https://via.placeholder.com/653x436" alt="img"></div>
+</div>
+</div>
+<div class="row project-row mt-100" >
+<div class="col-xs-12 col-sm-7 col-md-7" >
+<div class="outline-bordered-left"><img src="https://via.placeholder.com/635x435" alt="img"></div>
+</div>
+<div class="col-xs-12 col-md-4 col-md-offset-1 col-sm-5" >
+<div class="project-title">
+<h3 id="mcetoc_1d5jsmus87">03</h3>
+<h2 id="mcetoc_1d5jsmus88">CHERYFIELD ESTATE, Ushafa/Kubwa District</h2>
+</div>
+<div class="mt-30 text-content">
+<p>Cheryfield Estate is a beautifully finished Smart Home. We provide the most affordable luxurious home in Nigeria.</p>
+</div>
+<div class="mt-30 mb-15"><a href="https://kxngnathan-pkwork.glitch.me/.html" class="button-md dark-button">Read More</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="section-block">
+<div class="container">
+<div class="section-heading">
+<h2 id="mcetoc_1d5jsmus89" class="animated fadeInLeft wow">SERVICE</h2>
+</div>
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-4">
+<div class="services-block">
+<div class="services-3d">
+<div class="services-block-box services__card">
+<div class="center-holder"> </div>
+<h4 id="mcetoc_1d5jsmus8a">Planning</h4>
+<p>Our master plans provide a comprehensive look at where an organization is today.</p>
+<a href="https://kxngnathan-pkwork.glitch.me/" class="button-md dark-button">Read More</a></div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4">
+<div class="services-block">
+<div class="services-3d">
+<div class="services-block-box services__card">
+<div class="center-holder"> </div>
+<h4 id="mcetoc_1d5jsmus8b">Interior</h4>
+<p>Our master plans provide a comprehensive look at where an organization is today.</p>
+<a href="https://kxngnathan-pkwork.glitch.me/" class="button-md dark-button">Read More</a></div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4">
+<div class="services-block">
+<div class="services-3d">
+<div class="services-block-box services__card">
+<div class="center-holder"> </div>
+<h4 id="mcetoc_1d5jsmus8c">Exterior</h4>
+<p>Our master plans provide a comprehensive look at where an organization is today.</p>
+<a href="https://kxngnathan-pkwork.glitch.me/" class="button-md dark-button">Read More</a></div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4">
+<div class="services-block">
+<div class="services-3d">
+<div class="services-block-box services__card">
+<div class="center-holder"> </div>
+<h4 id="mcetoc_1d5jsmus8d">Consultation</h4>
+<p>Our master plans provide a comprehensive look at where an organization is today.</p>
+<a href="https://kxngnathan-pkwork.glitch.me/" class="button-md dark-button">Read More</a></div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4">
+<div class="services-block">
+<div class="services-3d">
+<div class="services-block-box services__card">
+<div class="center-holder"> </div>
+<h4 id="mcetoc_1d5jsmus8e">Design</h4>
+<p>Our master plans provide a comprehensive look at where an organization is today.</p>
+<a href="https://kxngnathan-pkwork.glitch.me/" class="button-md dark-button">Read More</a></div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-4">
+<div class="services-block">
+<div class="services-3d">
+<div class="services-block-box services__card">
+<div class="center-holder"> </div>
+<h4 id="mcetoc_1d5jsmus8f">Building</h4>
+<p>Our master plans provide a comprehensive look at where an organization is today.</p>
+<a href="https://kxngnathan-pkwork.glitch.me/" class="button-md dark-button">Read More</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section-block-parallax">
+<div class="container">
+<div class=""> </div>
+<div id="testmonials" class="owl-carousel owl-theme owl-loaded owl-drag">
+<div class="owl-stage-outer">
+<div class="owl-stage">
+<div class="owl-item active">
+<div class="mt-40 testmonial-block">
+<h4 id="mcetoc_1d5jsmus8g">Tim Cook</h4>
+<h6 id="mcetoc_1d5jsmus8h">DIRECTOR</h6>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+</div>
+<div class="owl-item">
+<div class="mt-40 testmonial-block">
+<h4 id="mcetoc_1d5jsmus8i">John Doe</h4>
+<h6 id="mcetoc_1d5jsmus8j">DESIGNER</h6>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+</div>
+<div class="owl-item">
+<div class="mt-40 testmonial-block">
+<h4 id="mcetoc_1d5jsmus8k">Clara White</h4>
+<h6 id="mcetoc_1d5jsmus8l">MARKETING</h6>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section-block">
+<div class="container">
+<div class="row">
+<h2 id="mcetoc_1d5jsmus8m" class="text-uppercase text-center  mb-20">SIGN UP TO OUR NEWS LETTER FOR WEEKLY MARKET UPDATES</h2>
+<div class="input-group input-group-lg"><input class="form-control" type="email" placeholder="Enter your email Address"><span class="input-group-btn"><button class="orange-button button-xl no-rounded text-uppercase" type="button">SIGN UP</button></span></div>
+</div>
+</div>
+</div>
+<footer>
+<div> </div>
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-4"><a href="https://kxngnathan-pkwork.glitch.me/"><img src="https://via.placeholder.com/120" alt="img"></a>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus.</p>
+<p>BSTAN GROUP © 2019</p>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-2">
+<div class="footer-title">
+<h2 id="mcetoc_1d5jsmus8n">Quick Links</h2>
+</div>
+<ul>
+<li><a href="https://kxngnathan-pkwork.glitch.me/index.html">Home</a></li>
+<li><a href="https://kxngnathan-pkwork.glitch.me/about.html">About</a></li>
+<li><a href="https://kxngnathan-pkwork.glitch.me/projects.html">Projects</a></li>
+<li><a href="https://kxngnathan-pkwork.glitch.me/events.html">Events</a></li>
+<li><a href="https://kxngnathan-pkwork.glitch.me/contact.html">Contact</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-2">
+<div class="footer-title">
+<h2 id="mcetoc_1d5jsmus8o">Contact Us</h2>
+</div>
+<ul>
+<li>Call Us</li>
+<li>(+234) 818 063 0068</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-2">
+<div class="footer-title">
+<h2 id="mcetoc_1d5jsmus8p">Visit Us</h2>
+</div>
+<ul>
+<li>10 Lobito Cressent, off Ademola Adetokunbo Road,</li>
+<li>Wuse II, Abuja</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-4 col-md-2">
+<div class="footer-title">
+<h2 id="mcetoc_1d5jsmus8q">Search, Social Links</h2>
+</div>
+<form><input name="s" type="text" placeholder="Search ..."></form>
+<div class="center-holder mt-50"><a href="https://kxngnathan-pkwork.glitch.me/"><i class="fa fa-facebook"></i></a> <a href="https://kxngnathan-pkwork.glitch.me/"><i class="fa fa-instagram"></i></a> <a href="https://kxngnathan-pkwork.glitch.me/"><i class="fa fa-twitter"></i></a> <a href="https://kxngnathan-pkwork.glitch.me/"><i class="fa fa-youtube"></i></a></div>
+</div>
+</div>
+</div>
+</footer>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bstan Garden</title>
+        <author>
+            <name>Dbug Tech</name>
+        </author>
+        <link href="https://dbugtech.com/bstan-preview/bstan-garden/"/>
+        <id>https://dbugtech.com/bstan-preview/bstan-garden/</id>
+
+        <updated>2019-03-09T21:52:11+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Getting StartedIntroductionHandlebars - introInstalling a new themeTheme structureRendering themeTheme config.json fileTips and tricksHandlebars tagsIntroductionBasic itemsPostTagAuthorFeatured imagePagesHomepagePost pageTag pageAuthor pageSearch page404 error pageXML/JSON FeedGlobal variablesIntroduction@amp@config@pagination@renderer@website@customHTMLHelpersIntroduction{{ampLink}}{{canonicalLink}}{{#checkIf}}{{#checkIfAll}}{{#checkIfAny}}{{#checkIfNone}}{{css}}{{date}}{{encodeUrl}}{{encodeUrlFragment}}{{feedLink}}{{font}}{{gdprScriptBlocker}}{{imageDimensions}}{{#is}}{{#isCurrentPage}}{{#isEmpty}}{{#isNotEmpty}}{{js}}{{jsonify}}{{jsonLD}}{{math}}{{menuItemClasses}}{{menuUrl}}{{metaDescription}}{{metaRobots}}{{orderby}}{{pageUrl}}{{{publiiFooter}}}{{{publiiHead}}}{{responsiveSizes}}{{responsiveSrcSet}}{{reverse}}{{socialMetaTags}}{{translate}}{{#getPost}}{{#getPosts}}{{#getPostByTags}}{{#getTag}}{{#getTags}}PartialsIntroductionfooter.hbsheader.hbsmenu.hbspagination.hbsCustom partialsTheme structureUpdated on August 15, 2017&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="container with-sidebar docs">
+<div class="sidebar"><form class="sidebar-search" action="https://getpublii.com/dev/search.html"><span class="algolia-autocomplete"><input class="ds-input" dir="auto" spellcheck="false" autocomplete="off" type="search" placeholder="search..."></span>
+<pre> </pre>
+</form><nav class="sidebar-menu">
+<ul class="js-sidebar-menu">
+<li class="active-parent has-submenu">Getting Started
+<ul>
+<li><a href="https://getpublii.com/dev/">Introduction</a></li>
+<li><a href="https://getpublii.com/dev/handlebars-introduction-for-publii-theme-developers/">Handlebars - intro</a></li>
+<li><a href="https://getpublii.com/dev/how-to-install-a-new-theme/">Installing a new theme</a></li>
+<li class="active"><a href="https://getpublii.com/dev/theme-structure/">Theme structure</a></li>
+<li><a href="https://getpublii.com/dev/how-the-theme-is-rendered/">Rendering theme</a></li>
+<li><a href="https://getpublii.com/dev/theme-configjson-file/">Theme config.json file</a></li>
+<li class="tips"><a href="https://getpublii.com/dev/tags/tips-and-tricks/">Tips and tricks</a></li>
+</ul>
+</li>
+<li class="has-submenu">Handlebars tags
+<ul>
+<li><a href="https://getpublii.com/dev/introduction-tags/">Introduction</a></li>
+<li class="sub-title has-submenu">Basic items
+<ul>
+<li><a href="https://getpublii.com/dev/post-tags/">Post</a></li>
+<li><a href="https://getpublii.com/dev/tag-tags/">Tag</a></li>
+<li><a href="https://getpublii.com/dev/author-tags/">Author</a></li>
+<li><a href="https://getpublii.com/dev/featured-image-tags/">Featured image</a></li>
+</ul>
+</li>
+<li class="sub-title has-submenu">Pages
+<ul>
+<li><a href="https://getpublii.com/dev/homepage-tags/">Homepage</a></li>
+<li><a href="https://getpublii.com/dev/post-page-tags/">Post page</a></li>
+<li><a href="https://getpublii.com/dev/tag-page-tags/">Tag page</a></li>
+<li><a href="https://getpublii.com/dev/author-page-tags/">Author page</a></li>
+<li><a href="https://getpublii.com/dev/search-page-tags/">Search page</a></li>
+<li><a href="https://getpublii.com/dev/404-error-page-tags/">404 error page</a></li>
+</ul>
+</li>
+<li><a href="https://getpublii.com/dev/feed-tags/">XML/JSON Feed</a></li>
+</ul>
+</li>
+<li class="has-submenu">Global variables
+<ul>
+<li><a href="https://getpublii.com/dev/introduction-global-variables/">Introduction</a></li>
+<li><a href="https://getpublii.com/dev/amp-global-variable/">@amp</a></li>
+<li><a href="https://getpublii.com/dev/config-global-variable/">@config</a></li>
+<li><a href="https://getpublii.com/dev/pagination-global-variable/">@pagination</a></li>
+<li><a href="https://getpublii.com/dev/renderer-global-variable/">@renderer</a></li>
+<li><a href="https://getpublii.com/dev/website-global-variable/">@website</a></li>
+<li><a href="https://getpublii.com/dev/customhtml-global-variable/">@customHTML</a></li>
+</ul>
+</li>
+<li class="has-submenu">Helpers
+<ul>
+<li><a href="https://getpublii.com/dev/introduction-helpers/">Introduction</a></li>
+<li><a href="https://getpublii.com/dev/amplink-helper/">{{ampLink}}</a></li>
+<li><a href="https://getpublii.com/dev/canonicallink-helper/">{{canonicalLink}}</a></li>
+<li><a href="https://getpublii.com/dev/checkif-helper/">{{#checkIf}}</a></li>
+<li><a href="https://getpublii.com/dev/checkifall-helper/">{{#checkIfAll}}</a></li>
+<li><a href="https://getpublii.com/dev/checkifany-helper/">{{#checkIfAny}}</a></li>
+<li><a href="https://getpublii.com/dev/checkifnone-helper/">{{#checkIfNone}}</a></li>
+<li><a href="https://getpublii.com/dev/css-helper/">{{css}}</a></li>
+<li><a href="https://getpublii.com/dev/date-helper/">{{date}}</a></li>
+<li><a href="https://getpublii.com/dev/encodeurl-helper/">{{encodeUrl}}</a></li>
+<li><a href="https://getpublii.com/dev/encodeurlfragment-helper/">{{encodeUrlFragment}}</a></li>
+<li><a href="https://getpublii.com/dev/feedlink-helper/">{{feedLink}}</a></li>
+<li><a href="https://getpublii.com/dev/font-helper/">{{font}}</a></li>
+<li><a href="https://getpublii.com/dev/gdprScriptBlocker-helper/">{{gdprScriptBlocker}}</a></li>
+<li><a href="https://getpublii.com/dev/imagedimensions-helper/">{{imageDimensions}}</a></li>
+<li><a href="https://getpublii.com/dev/is-helper/">{{#is}}</a></li>
+<li><a href="https://getpublii.com/dev/iscurrentpage-helper/">{{#isCurrentPage}}</a></li>
+<li><a href="https://getpublii.com/dev/isempty-helper/">{{#isEmpty}}</a></li>
+<li><a href="https://getpublii.com/dev/isnotempty/">{{#isNotEmpty}}</a></li>
+<li><a href="https://getpublii.com/dev/js-helper/">{{js}}</a></li>
+<li><a href="https://getpublii.com/dev/jsonify-helper/">{{jsonify}}</a></li>
+<li><a href="https://getpublii.com/dev/jsonld-helper/">{{jsonLD}}</a></li>
+<li><a href="https://getpublii.com/dev/math-helper/">{{math}}</a></li>
+<li><a href="https://getpublii.com/dev/menuitemclasses-helper/">{{menuItemClasses}}</a></li>
+<li><a href="https://getpublii.com/dev/menuurl-helper/">{{menuUrl}}</a></li>
+<li><a href="https://getpublii.com/dev/metadescription-helper/">{{metaDescription}}</a></li>
+<li><a href="https://getpublii.com/dev/metarobots-helper/">{{metaRobots}}</a></li>
+<li><a href="https://getpublii.com/dev/orderby-helper/">{{orderby}}</a></li>
+<li><a href="https://getpublii.com/dev/pageurl-helper/">{{pageUrl}}</a></li>
+<li><a href="https://getpublii.com/dev/publiiFooter/">{{{publiiFooter}}}</a></li>
+<li><a href="https://getpublii.com/dev/publiihead-helper/">{{{publiiHead}}}</a></li>
+<li><a href="https://getpublii.com/dev/responsivesizes-helper/">{{responsiveSizes}}</a></li>
+<li><a href="https://getpublii.com/dev/responsivesrcset-helper/">{{responsiveSrcSet}}</a></li>
+<li><a href="https://getpublii.com/dev/reverse-helper/">{{reverse}}</a></li>
+<li><a href="https://getpublii.com/dev/socialmetatags-helper/">{{socialMetaTags}}</a></li>
+<li><a href="https://getpublii.com/dev/translate-helper/">{{translate}}</a></li>
+<li><a href="https://getpublii.com/dev/getpost-helper/">{{#getPost}}</a></li>
+<li><a href="https://getpublii.com/dev/getposts-helper/">{{#getPosts}}</a></li>
+<li><a href="https://getpublii.com/dev/getpostbytags-helper/">{{#getPostByTags}}</a></li>
+<li><a href="https://getpublii.com/dev/gettag-helper/">{{#getTag}}</a></li>
+<li><a href="https://getpublii.com/dev/gettags-helper/">{{#getTags}}</a></li>
+</ul>
+</li>
+<li class="has-submenu">Partials
+<ul>
+<li><a href="https://getpublii.com/dev/introduction-partials/">Introduction</a></li>
+<li><a href="https://getpublii.com/dev/footerhbs-partial/">footer.hbs</a></li>
+<li><a href="https://getpublii.com/dev/headerhbs-partial/">header.hbs</a></li>
+<li><a href="https://getpublii.com/dev/menuhbs-partial/">menu.hbs</a></li>
+<li><a href="https://getpublii.com/dev/paginationhbs-partial/">pagination.hbs</a></li>
+<li><a href="https://getpublii.com/dev/creating-custom-partials/">Custom partials</a></li>
+</ul>
+</li>
+</ul>
+</nav></div>
+<div class="content">
+<article class="content-inner post">
+<h1 id="mcetoc_1d5i3hlmb0">Theme structure</h1>
+<p class="post-updated nocontent">Updated on August 15, 2017</p>
+<div class="post-entry">
+<p>Every Publii theme should contain some required files, but there are also a few files which can be optionally included in the theme.</p>
+<p>The following files are required:</p>
+<ul>
+<li><strong>config.json</strong> - main theme configuration file,</li>
+<li><strong>index.hbs</strong> - front page template,</li>
+<li><strong>post.hbs</strong> - single post template,</li>
+<li><strong>tag.hbs</strong> - single tag page template,</li>
+<li><strong>author.hbs</strong> - single author page template,</li>
+<li><strong>thumbnail.png</strong> - that will be displayed in the application settings (required dimensions: 400x300px),</li>
+<li><strong>partials/</strong> - location for files which will be loaded with use of the <code>{{&gt; fileName}}</code> code,</li>
+<li><strong>partials/footer.hbs</strong> - footer used in all pages,</li>
+<li><strong>partials/header.hbs</strong> - header used in all pages,</li>
+<li><strong>assets/css/main.css</strong> - main CSS file which is used to generate the <strong>styles.css</strong> file (which is merged with the optionally-generated <strong>override.css</strong> file).</li>
+</ul>
+<p>And these files are optional:</p>
+<ul>
+<li><strong>visual-override.js</strong> - file which contains a function used to <strong>generate the override.css</strong> file,</li>
+<li><strong>feed-xml.hbs</strong> - The structure of the feed XML file - generated as <strong>feed.xml</strong> (the <strong>feed-xml.hbs</strong> file will be replaced with the application's default if one does not exist in the theme),</li>
+<li><strong>feed-json.hbs</strong> - The structure of the feed JSON file - generated as <strong>feed.json</strong> (the <strong>feed-json.hbs</strong>file will be replaced with the application's default if one does not exist in the theme),</li>
+<li><strong>partials/pagination.hbs</strong> - pagination for all pages (the pagination partial will be replaced with the application's default if one it does not exist in the theme),</li>
+<li><strong>partials/menu.hbs</strong> - menu structure for all pages (the menu partial will be replaced with the application's default if one does not exist in the theme).</li>
+</ul>
+</div>
+<aside class="post-similar nocontent">
+<h3 id="mcetoc_1d5i3hlmc1">Similar posts:</h3>
+<ul>
+<li><a href="https://getpublii.com/dev/how-to-install-a-new-theme/">How to install a new theme?</a></li>
+<li><a href="https://getpublii.com/dev/how-the-theme-is-rendered/">How the theme is rendered?</a></li>
+<li><a href="https://getpublii.com/dev/theme-configjson-file/">Theme config.json file</a></li>
+</ul>
+</aside>
+</article>
+</div>
+</div>
+<footer class="footer">
+<div><a class="footer-logo" href="https://getpublii.com/dev/theme-structure/"><svg><use xlink:href="https://getpublii.com/dev/assets/svg/svg-map.svg#logo"><svg id="logo" viewbox="0 0 513 205" width="100%" height="100%"><path d="M449.193,133.1l.06.01a11.32,11.32,0,0,0,1.48.1,10.291,10.291,0,0,0,10.321-8.838c.444-3.112.471-7.489-1.929-10.668a9.363,9.363,0,0,0-6.487-3.587,9.194,9.194,0,0,0-7.515,2.259,14.232,14.232,0,0,0-4.633,9.361C440.047,126.489,442.573,132.051,449.193,133.1Z"></path><path d="M391.322,133.1l.06.01a11.32,11.32,0,0,0,1.48.1,10.294,10.294,0,0,0,10.323-8.84c.442-3.113.466-7.491-1.933-10.668a9.375,9.375,0,0,0-6.487-3.586,9.207,9.207,0,0,0-7.513,2.259,14.239,14.239,0,0,0-4.632,9.362C382.179,126.489,384.705,132.051,391.322,133.1Z"></path><path d="M510.16,145.475c-1.731-.892-4.2-.429-5.8,2.6-6.28,11.5-20.987,38.43-35.716,38.988-3.683.192-6.333-.788-8.3-3.078-4.547-5.293-5.042-17.371-1.431-34.929a12.323,12.323,0,0,0,.366-2.194c0-3.335-2.432-6.03-6.05-6.708-3.777-.705-8.486.849-10.177,5.2l-.128.457c-.01.049-1.087,6.143-1.966,12.045-11.313,19.049-21.463,28.875-30.187,29.205-3.693.194-6.333-.788-8.3-3.078-4.548-5.293-5.043-17.371-1.431-34.929a12.323,12.323,0,0,0,.366-2.194c0-3.335-2.432-6.03-6.049-6.708-3.771-.7-8.487.848-10.178,5.2l-.129.462c-.012.064-1.281,7.239-2.2,13.673-11.454,19.158-22.877,28.472-34.916,28.472-6.947,0-13.472-3.852-18.468-10.876,10.113-12.626,32.411-50.825,38.031-90.286,3.222-21.108,1.443-36.578-5.145-44.739A17.129,17.129,0,0,0,349.6,35.522c-5.008-.32-9.969,1.743-14.706,6.136C317.71,57.587,306.4,101.772,306.153,125.2c-.269,29.785-.675,74.8,38.355,76.787.7.035,1.381.053,2.062.053,16.936,0,29.42-10.944,37.355-21.094,2.7,8.985,9.313,21.048,25.392,21.047l.388,0c13.177,0,24.411-11.032,32.014-21.306,2.664,9.123,9.259,21.309,25.466,21.309l.391,0c22.172,0,38.977-31.461,42.12-37.767C514.411,154.761,513.635,147.263,510.16,145.475ZM351.215,92.108l-.006.021c-10.042,39.721-14.792,52.272-27.866,71.83-2.789-11.267-3.925-28.018-3.205-37.913,3.929-40.886,20.209-74.418,28.622-74.418.081,0,.163,0,.243.01a2.759,2.759,0,0,1,2.211,1.371C356.245,59.943,353.185,84.776,351.215,92.108Z"></path><path d="M150.311,124.575c27.368-10.747,61.77-31.735,70.214-70.6l.024-.1c1.784-8.351-.612-16.977-6.932-24.944C201.784,14.01,177.082,2.869,154.884,2.442,127.026,1.868,114.24,3.977,89.766,11c.835-5.876-1.1-7.782-4.613-8.9a9.4,9.4,0,0,1-.929-.325C81.568.532,78.559-.876,75.726.7c-2.366,1.318-3.7,4.257-4.321,9.527-.159.812-.31,1.869-.507,3.254-.129.907-.276,1.937-.454,3.081C51.48,22.682,38.218,28.673,18.376,40.043l-.852.474C9.468,44.993.337,50.066,0,60.268,0,61.638.967,71.2,5.186,73.3a4.156,4.156,0,0,0,4.4-.434c2.673-1.786,2.228-4.3,1.989-5.65a2.882,2.882,0,0,1,.407-2.727c6.2-8.107,31.323-21.957,55.681-30.813-2.612,15-7.68,46.151-7.991,63.572,0,6.585-.256,14.982-.707,23.321a7.788,7.788,0,0,1-2.22-1.632,3.932,3.932,0,0,0-4.427-1.148c-2.071.856-2.825,3.257-2.843,5.242-.178,2.341.763,6.82,8.628,11.428-.4,8.666-.855,17.794-1.231,25.357l-.012.245c-.474,9.548-.787,15.855-.786,16.808l-.03.332c-1.1,11.608,2.291,19.3,9.533,21.646a18.216,18.216,0,0,0,5.595,1.156,5.11,5.11,0,0,0,3.481-1.146c2.027-1.779,1.482-4.559,1.085-6.591-.118-.6-.229-1.172-.272-1.579,0-.776-.088-2.806-.242-6.521-.384-9.285-1.171-28.3-1.25-45.142C88.7,139.751,119.772,136.566,150.311,124.575Zm-3.665-13.207c-26.182,10.918-54.989,14.122-72.6,12.513.328-9.01.915-17.36,1.7-24.2,1.365-9.923,2.554-20.508,3.711-30.8,1.789-15.916,3.482-30.973,5.551-40.968,24.732-8.1,42.515-11.992,70.032-10.854,12.751.465,35.546,3.01,44.944,14.832,3.816,4.8,5.051,10.849,3.671,17.971C197.007,83.822,168.984,102.053,146.646,111.368Z"></path><path d="M285.9,123.641l-.015,0c-6.416-.807-12.47,1.257-18,6.135-5.67,5-10,12.319-13.152,19.319a644.134,644.134,0,0,1,15.8-96.083c.388-1.621.578-2.421.669-2.963,1.316-4.981-2.523-11.578-7.931-13.6-1.7-.639-7.538-2.138-11.138,5.292l-.2.409-.041.449c-6.813,72.47-13.405,113.08-13.472,113.484s-.31,1.847-.605,4.053c-6.472,11.533-15.592,24.468-29.024,23.041-6.944-.8-7.983-10.434-7.987-16.02.229-4.116.371-7.677.486-10.548.193-4.815.333-8.295.644-10.035.223-.895.525-1.745.818-2.567.765-2.146,1.555-4.365.418-6.545-.852-1.632-2.574-2.754-5.452-3.54a7.764,7.764,0,0,0-6.135.752c-2.118,1.291-3.6,3.681-4.4,7.081-.614,2.464-1.172,4.941-1.67,7.155-.511,2.268-1.039,4.612-1.629,6.979-2.4,9.639-10.972,25.732-15.539,25.188a3.561,3.561,0,0,1-2.678-1.77c-3.92-6.02-.743-23.891,2.347-34.426.309-1.032.661-2.043,1.014-3.058,1.186-3.4,2.305-6.62.905-9.3a6.343,6.343,0,0,0-4.156-3.073c-3.057-.972-5.637-.837-7.67.4a8.211,8.211,0,0,0-3.623,5.913c-.11.362-.257.83-.435,1.393a168.057,168.057,0,0,0-6.2,25.583c-1.392,9.537,1.072,20.286,6.132,26.749a16.852,16.852,0,0,0,11.736,6.773c11.3.915,18.619-9.727,22.242-16.949,2.785,7.129,9.24,17.561,23.151,17.561h0l.432,0c9.849-.19,18.7-7.289,25.028-14.227a38.754,38.754,0,0,0,2.29,12.365c3.026,7.484,7.357,7.838,9.674,7.387a9.706,9.706,0,0,0,4.051-2c3.167,1.99,9.053,4.391,13.979,4.6.138.006.278.009.423.009,9.343,0,29.463-11.9,33.637-39.4,2.584-16.427,1.213-28.77-3.965-35.693A15.5,15.5,0,0,0,285.9,123.641Zm-3.466,15.2a4.4,4.4,0,0,1,4.356,2.135c3.889,5.881,1.9,21.343-4.346,33.765-4.734,9.416-10.854,15.006-16.76,15.336a8.067,8.067,0,0,1-8.13-5.974C260.938,168.493,270.366,139.452,282.43,138.837Z"></path></svg></use></svg></a>
+<ul class="footer-nav">
+<li><a href="https://getpublii.com/roadmap/">Roadmap</a></li>
+<li><a href="https://getpublii.com/license/">License</a></li>
+<li><a href="https://getpublii.com/privacy-policy/">Privacy Policy</a></li>
+<li><a href="https://getpublii.com/terms-and-conditions/">Terms and Conditions</a></li>
+<li><a href="https://getpublii.com/about/">About</a></li>
+<li><a href="https://publii.ticksy.com/">Contact Us</a></li>
+</ul>
+</div>
+<div>
+<div class="footer-copy">© 2019 <a href="https://tidycustoms.net/" rel="nofollow">TidyCustoms</a>. Maintained with cooperation with <a href="https://github.com/dziudek" rel="nofollow">Dev Zen</a></div>
+<div class="footer-social"><a href="https://www.facebook.com/publii" title="Facebook" class="facebook"><svg class="icon" aria-hidden="true"><use xlink:href="https://getpublii.com/dev/assets/svg/svg-map.svg#facebook"><svg id="facebook" viewbox="0 0 32 32" width="100%" height="100%"><path d="M30.234 0H1.766A1.766 1.766 0 0 0 0 1.766v28.468A1.766 1.766 0 0 0 1.766 32h15.326V19.608h-4.17v-4.83h4.17v-3.56c0-4.134 2.524-6.385 6.21-6.385a34.216 34.216 0 0 1 3.727.19v4.32h-2.557c-2.005 0-2.394.953-2.394 2.35v3.084h4.78l-.622 4.83h-4.16V32h8.154A1.766 1.766 0 0 0 32 30.234V1.766A1.766 1.766 0 0 0 30.234 0z"></path></svg></use></svg> </a><a href="https://twitter.com/getpublii" title="Twitter" class="twitter"><svg class="icon" aria-hidden="true"><use xlink:href="https://getpublii.com/dev/assets/svg/svg-map.svg#twitter"><svg id="twitter" viewbox="0 0 24.999 20.316" width="100%" height="100%"><path d="M25 2.405a10.253 10.253 0 0 1-2.947.808A5.144 5.144 0 0 0 24.308.376 10.27 10.27 0 0 1 21.05 1.62a5.134 5.134 0 0 0-8.74 4.68A14.56 14.56 0 0 1 1.74.94a5.134 5.134 0 0 0 1.587 6.846 5.108 5.108 0 0 1-2.323-.642v.064a5.132 5.132 0 0 0 4.114 5.03 5.142 5.142 0 0 1-2.316.088 5.134 5.134 0 0 0 4.79 3.562 10.29 10.29 0 0 1-6.37 2.2A10.44 10.44 0 0 1 0 18.012a14.586 14.586 0 0 0 22.454-12.29q0-.333-.015-.662A10.423 10.423 0 0 0 25 2.405z"></path></svg></use></svg> </a><a href="https://www.instagram.com/getpublii/" class="instagram"><svg class="icon" aria-hidden="true"><use xlink:href="https://getpublii.com/dev/assets/svg/svg-map.svg#instagram"><svg id="instagram" viewbox="0 0 32 32" width="100%" height="100%"><path d="M16,2.883c4.272,0,4.778.016,6.465.093a8.853,8.853,0,0,1,2.971.551,4.957,4.957,0,0,1,1.84,1.2,4.957,4.957,0,0,1,1.2,1.84,8.853,8.853,0,0,1,.551,2.971c.077,1.687.093,2.193.093,6.465s-.016,4.778-.093,6.465a8.853,8.853,0,0,1-.551,2.971,5.3,5.3,0,0,1-3.037,3.037,8.853,8.853,0,0,1-2.971.551c-1.687.077-2.193.093-6.465.093s-4.778-.016-6.465-.093a8.853,8.853,0,0,1-2.971-.551,4.957,4.957,0,0,1-1.84-1.2,4.957,4.957,0,0,1-1.2-1.84,8.853,8.853,0,0,1-.551-2.971C2.9,20.778,2.883,20.272,2.883,16s.016-4.778.093-6.465a8.853,8.853,0,0,1,.551-2.971,4.957,4.957,0,0,1,1.2-1.84,4.957,4.957,0,0,1,1.84-1.2,8.853,8.853,0,0,1,2.971-.551C11.222,2.9,11.728,2.883,16,2.883M16,0c-4.345,0-4.89.018-6.6.1A11.744,11.744,0,0,0,5.519.84,7.843,7.843,0,0,0,2.685,2.685,7.843,7.843,0,0,0,.84,5.519,11.744,11.744,0,0,0,.1,9.4C.018,11.11,0,11.655,0,16s.018,4.89.1,6.6A11.744,11.744,0,0,0,.84,26.481a7.843,7.843,0,0,0,1.845,2.834A7.843,7.843,0,0,0,5.519,31.16,11.744,11.744,0,0,0,9.4,31.9c1.707.078,2.251.1,6.6.1s4.89-.018,6.6-.1a11.744,11.744,0,0,0,3.884-.744,8.181,8.181,0,0,0,4.679-4.679A11.744,11.744,0,0,0,31.9,22.6c.078-1.707.1-2.251.1-6.6s-.018-4.89-.1-6.6a11.744,11.744,0,0,0-.744-3.884,7.843,7.843,0,0,0-1.845-2.834A7.843,7.843,0,0,0,26.481.84,11.744,11.744,0,0,0,22.6.1C20.89.018,20.345,0,16,0Zm0,7.784A8.216,8.216,0,1,0,24.216,16,8.216,8.216,0,0,0,16,7.784Zm0,13.55A5.333,5.333,0,1,1,21.333,16,5.333,5.333,0,0,1,16,21.333ZM24.541,5.539a1.92,1.92,0,1,0,1.92,1.92A1.92,1.92,0,0,0,24.541,5.539Z"></path></svg></use></svg> </a><a href="https://pl.pinterest.com/getpublii/" class="pinterest"><svg class="icon" aria-hidden="true"><use xlink:href="https://getpublii.com/dev/assets/svg/svg-map.svg#pinterest"><svg id="pinterest" viewbox="0 0 32 32" width="100%" height="100%"><path d="M16 0a16 16 0 0 0-5.83 30.9 15.34 15.34 0 0 1 .055-4.59c.29-1.25 1.876-7.953 1.876-7.953a5.776 5.776 0 0 1-.478-2.375c0-2.225 1.29-3.886 2.9-3.886a2.01 2.01 0 0 1 2.024 2.254c0 1.373-.874 3.425-1.325 5.327a2.323 2.323 0 0 0 2.37 2.89c2.844 0 5.03-3 5.03-7.326a6.316 6.316 0 0 0-6.683-6.508 6.926 6.926 0 0 0-7.225 6.944 6.224 6.224 0 0 0 1.188 3.65.478.478 0 0 1 .11.46c-.12.504-.39 1.59-.443 1.814-.07.293-.232.355-.535.214-2-.93-3.248-3.852-3.248-6.2 0-5.047 3.667-9.682 10.572-9.682 5.55 0 9.864 3.955 9.864 9.24 0 5.515-3.477 9.953-8.3 9.953a4.282 4.282 0 0 1-3.667-1.837s-.8 3.055-1 3.8a17.885 17.885 0 0 1-1.99 4.195A16 16 0 1 0 16 0z"></path></svg></use></svg></a></div>
+</div>
+</footer>
+<div class="cookie-popup js-cookie-popup cookie-popup--uses-badge"><span class="cookie-popup-label">Cookie Policy</span></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>services</title>
+        <author>
+            <name>Dbug Tech</name>
+        </author>
+        <link href="https://dbugtech.com/bstan-preview/services/"/>
+        <id>https://dbugtech.com/bstan-preview/services/</id>
+
+        <updated>2019-03-07T12:25:16+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

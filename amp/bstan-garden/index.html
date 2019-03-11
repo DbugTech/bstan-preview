@@ -1,0 +1,582 @@
+<!doctype html><html amp lang="en"><head><meta charset="utf-8"><title>Bstan Garden - Bstan Homes</title><link rel="canonical" href="https://dbugtech.com/bstan-preview/bstan-garden/"><meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"><link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet" type="text/css"><script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script><script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script><script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script><script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script><script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://dbugtech.com/bstan-preview/amp/bstan-garden/"},"headline":"Bstan Garden","datePublished":"2019-03-09T21:52","dateModified":"2019-03-09T21:52","description":" Getting StartedIntroductionHandlebars - introInstalling a new themeTheme structureRendering themeTheme config.json fileTips and tricksHandlebars tagsIntroductionBasic itemsPostTagAuthorFeatured imagePagesHomepagePost pageTag pageAuthor pageSearch page404 error pageXML/JSON FeedGlobal variablesIntroduction@amp@config@pagination@renderer@website@customHTMLHelpersIntroduction{{ampLink}}{{canonicalLink}}{{#checkIf}}{{#checkIfAll}}{{#checkIfAny}}{{#checkIfNone}}{{css}}{{date}}{{encodeUrl}}{{encodeUrlFragment}}{{feedLink}}{{font}}{{gdprScriptBlocker}}{{imageDimensions}}{{#is}}{{#isCurrentPage}}{{#isEmpty}}{{#isNotEmpty}}{{js}}{{jsonify}}{{jsonLD}}{{math}}{{menuItemClasses}}{{menuUrl}}{{metaDescription}}{{metaRobots}}{{orderby}}{{pageUrl}}{{{publiiFooter}}}{{{publiiHead}}}{{responsiveSizes}}{{responsiveSrcSet}}{{reverse}}{{socialMetaTags}}{{translate}}{{#getPost}}{{#getPosts}}{{#getPostByTags}}{{#getTag}}{{#getTags}}PartialsIntroductionfooter.hbsheader.hbsmenu.hbspagination.hbsCustom partialsTheme structureUpdated on August 15, 2017&hellip;","publisher":{"@type":"Organization","name":"Dbug Tech"}}</script><style amp-custom>article,
+aside,
+footer,
+header,
+hgroup,
+main,
+nav,
+section {
+  display: block; }
+
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+  margin: 0;
+  padding: 0; }
+
+li {
+  list-style: none; }
+
+amp-img {
+  max-width: 100%; }
+
+button,
+input,
+select,
+textarea {
+  font: inherit; }
+
+html {
+  font-size: 1rem; }
+
+body {
+  background: #f1f1f1;
+  color: #262626;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  line-height: 1.6; }
+
+a {
+  color:  #039be5;
+  text-decoration: none;
+  -webkit-transition: all 0.12s linear 0s;
+  -o-transition: all 0.12s linear 0s;
+  transition: all 0.12s linear 0s; }
+
+a:hover {
+  color: #262626;
+  text-decoration: underline;
+  -webkit-text-decoration-skip: ink;
+  text-decoration-skip: ink; }
+
+a:active {
+  color: #262626; }
+
+a:focus {
+  outline: 2px dotted #039be5; }
+
+figure,
+blockquote,
+p,
+ul,
+ol,
+dl,
+table,
+hr,
+fieldset {
+  margin-top: 1.6rem; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #262626;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+  margin-top: 2.13333rem; }
+
+h1 {
+  font-size: 1.67583rem;
+  font-weight: normal; }
+
+h2 {
+  font-size: 1.4729rem; }
+
+h3 {
+  font-size: 1.29454rem; }
+
+h4 {
+  font-size: 1.13778rem; }
+
+h5 {
+  font-size: 1rem; }
+
+h6 {
+  font-size: 0.87891rem; }
+
+h2 + p,
+h3 + p,
+h4 + p,
+h5 + p,
+h6 + p {
+  margin-top: 0.8rem; }
+
+b,
+strong {
+  font-weight: 600; }
+
+blockquote {
+  color: #6c7175;
+  font-family: "Droid Serif", "Times", "Source Serif Pro", serif;
+  font-style: italic;
+  padding: 1.33333rem 0.53333rem 1.33333rem 3.2rem;
+  position: relative; }
+  blockquote:before {
+    display: block;
+    content: "\201C";
+    font-size: 4.41226rem;
+    position: absolute;
+    left: 0;
+    top: -12px;
+    color: rgba(108, 113, 117, 0.5); }
+  blockquote > :nth-child(1) {
+    margin-top: 0; }
+
+ul,
+ol {
+  margin-left: 2rem; }
+  ul > li,
+  ol > li {
+    list-style: inherit;
+    padding: 0 0 0.26667rem 0.26667rem; }
+
+dl dt {
+  color: #262626;
+  font-weight: 600; }
+
+code,
+pre {
+  background-color: #f1f1f1;
+  font-family: monospace; }
+
+pre {
+  margin: 1.6rem 0 0;
+  padding: 1.6rem;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  overflow-x: auto; }
+  pre > code {
+    color: #262626;
+    padding: 0; }
+
+code {
+  border-radius: 3px;
+  color: #262626;
+  padding: 0.26667rem 0.53333rem; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid #d4d4d4;
+  width: 100%;
+  overflow-x: auto;
+  vertical-align: top;
+  text-align: left;
+  white-space: nowrap; }
+  table th {
+    font-weight: 500;
+    padding: 0.53333rem 1.06667rem; }
+  table tr {
+    border-bottom: 1px solid #d4d4d4; }
+    table tr:nth-child(2n) {
+      background: #f1f1f1; }
+  table td {
+    padding: 0.53333rem 1.06667rem; }
+
+figcaption {
+  clear: both;
+  color: rgba(108, 113, 117, 0.6);
+  font-size: 0.82397rem;
+  margin: 0.8rem 0 0;
+  text-align: center; }
+
+sub,
+sup {
+  font-size: 65%; }
+
+hr {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3); }
+
+.btn, [type=button],
+[type=submit],
+button {
+  background: #039be5;
+  border: none;
+  border-radius: 2px;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 0.87891rem;
+  font-weight: 500;
+  line-height: 1.9;
+  padding: 0.53333rem 1.33333rem;
+  text-align: center;
+  text-decoration: none;
+  -webkit-transition: all .15s ease;
+  -o-transition: all .15s ease;
+  transition: all .15s ease;
+  width: auto; }
+  .btn:hover, [type=button]:hover,
+  [type=submit]:hover,
+  button:hover {
+    background: #262626;
+    color: #ffffff; }
+  .btn:focus, [type=button]:focus,
+  [type=submit]:focus,
+  button:focus {
+    outline: none; }
+  .btn-outline {
+    border: 1px solid #ddd;
+    background: #ffffff;
+    border-radius: 3px;
+    color: #262626; }
+
+[type=button],
+[type=submit],
+button {
+  text-transform: uppercase;
+  -webkit-appearance: none;
+  -moz-appearance: none; }
+
+.navbar {
+  background: #039be5;
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.2);
+  line-height: 3;
+  max-height: 4rem; }
+  .navbar > div {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    text-align: left;
+    max-width: 700px;
+    margin: 0 auto; }
+  .navbar a {
+    color: #ffffff;
+    text-decoration: none; }
+  .navbar-sidebar-toggle {
+    left: 0;
+    position: relative;
+    text-indent: -99999rem; }
+    .navbar-sidebar-toggle:before {
+      content: "";
+      display: block;
+      border-top: 0.375rem double #ffffff;
+      border-bottom: 0.125rem solid #ffffff;
+      height: 0.125rem;
+      position: absolute;
+      text-indent: 0;
+      top: 50%;
+      width: 1.3rem;
+      -webkit-transform: translate(0px, -50%);
+      -ms-transform: translate(0px, -50%);
+      transform: translate(0px, -50%); }
+
+
+.logo {
+            display: inline-block;
+  font-weight: 600;
+  line-height: 1;
+            margin: 0 auto;
+            height: 2rem;
+            text-indent: -9999px;
+            width: 240px;vertical-align: middle;
+        }
+        .logo.logo-text {
+            line-height: 2;
+            text-align: center;
+            text-indent: 0;
+        }
+
+amp-sidebar {
+  background: #ffffff;
+  width: 240px; }
+  amp-sidebar > ul {
+    margin: 0.8rem 0 0;
+    padding: 0; }
+    amp-sidebar > ul ul {
+      border-left: 1px solid #d4d4d4;
+      margin: 0.53333rem 0 0; }
+    amp-sidebar > ul li {
+      color: #262626;
+      font-size: 0.9375rem;
+      font-weight: 600;
+      list-style: none;
+      line-height: 1.4;
+      padding: 0.42667rem 1.06667rem; }
+      amp-sidebar > ul li li {
+        font-weight: normal;
+        padding: 0.26667rem 0 0.26667rem 1.06667rem; }
+    amp-sidebar > ul a,
+    amp-sidebar > ul a:visited {
+      color: #262626; }
+
+.bg-white {
+  background: #ffffff; }
+
+.wrap-page {
+  max-width: 700px;
+  margin: 0 auto; }
+
+@media all and (max-width: 43.6875em) {
+  .wrap-inner {
+    padding: 0 6%; } }
+
+.page-title {
+  background: #ffffff;
+  -webkit-box-shadow: 0 2px 3px rgba(38, 38, 38, 0.1);
+  box-shadow: 0 2px 3px rgba(38, 38, 38, 0.1);
+  margin-bottom: 0.8rem;
+  padding: 1.6rem 6%; }
+  .page-title > h1 {
+    margin: 0;
+    font-size: 1.29454rem; }
+  .page-title > p {
+    font-size: 0.87891rem;
+    color: #6c7175;
+    line-height: 1.3;
+    margin: 0.26667rem 0 0; }
+  .page-title-author {
+    border-radius: 50%;
+    float: left;
+    height: 2.5rem;
+    width: 2.5rem; }
+    .page-title-author + h1 {
+      margin-left: 3.5rem; }
+      .page-title-author + h1 + p {
+        margin-left: 3.5rem; }
+
+.card {
+  background: #ffffff;
+  -webkit-box-shadow: 0 2px 3px rgba(38, 38, 38, 0.1);
+  box-shadow: 0 2px 3px rgba(38, 38, 38, 0.1);
+  margin-bottom: 0.8rem;
+  padding-bottom: 1.06667rem; }
+
+  .card-meta {
+    border-top: 1px solid #d4d4d4;
+    color: rgba(108, 113, 117, 0.6);
+    font-size: 0.7242rem;
+    font-weight: 500;
+    margin-top: 1.06667rem;
+    padding-top: 1.06667rem;
+    text-transform: uppercase; }
+    .card-meta a + time:before {
+      content: "";
+      background: #d4d4d4;
+      display: inline-block;
+      height: 3px;
+      margin: 0 8px;
+      width: 3px;
+      vertical-align: middle;
+      border-radius: 50%; }
+  .card-text {
+    font-size: 0.9375rem;
+    overflow: hidden;
+    padding: 0 6%; }
+    .card-text h2 {
+      font-size: 1.13778rem; }
+
+.post {
+  margin-bottom: 2.13333rem; }
+  .post-featured-image {
+    margin-top: 0;
+    position: relative; }
+    .post-featured-image > figcaption {
+      background: rgba(0, 0, 0, 0.5);
+      border-radius: 3px;
+      color: #ffffff;
+      position: absolute;
+      bottom: 0.8rem;
+      padding: 0 0.26667rem;
+      right: 6%; }
+  .post-header {
+    margin-bottom: 2.13333rem; }
+  .post-meta {
+    border-bottom: 1px solid #d4d4d4;
+    color: rgba(108, 113, 117, 0.6);
+    font-size: 0.7242rem;
+    font-weight: 500;
+    margin-top: 1.06667rem;
+    padding-bottom: 1.06667rem;
+    text-transform: uppercase; }
+    .post-meta a + time:before {
+      content: "";
+      background: #d4d4d4;
+      display: inline-block;
+      height: 3px;
+      margin: 0 8px;
+      width: 3px;
+      vertical-align: middle;
+      border-radius: 50%; }
+  .post-tag {
+    margin: 0; }
+    .post-tag > li {
+      display: inline-block;
+      padding: 0; }
+      .post-tag > li a {
+        background: #f1f1f1;
+        border-radius: 2px;
+        color: #6c7175;
+        font-size: 0.77248rem;
+        display: inline-block;
+        margin: 0 0.26667rem 0.26667rem 0;
+        padding: 0.26667rem 0.53333rem; }
+        .post-tag > li a:hover {
+          background: #039be5;
+          color: #ffffff;
+          text-decoration: none; }
+  .post-share {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-top: 1.6rem;
+    width: 100%; }
+    .post-share amp-social-share {
+      -webkit-box-flex: 1;
+      -ms-flex: 1 0 auto;
+      flex: 1 0 auto;
+      background-size: 24px; }
+  .post-scroll {
+    color: #ffffff;
+    background: #039be5;
+    bottom: 10px;
+    border-radius: 50%;
+    border: none;
+    -webkit-box-shadow: 0 1px 1.5px 0 rgba(38, 38, 38, 0.12), 0 1px 1px 0 rgba(38, 38, 38, 0.24);
+    box-shadow: 0 1px 1.5px 0 rgba(38, 38, 38, 0.12), 0 1px 1px 0 rgba(38, 38, 38, 0.24);
+    font-size: 1.13778rem;
+    height: 46px;
+    opacity: 0;
+    outline: none;
+    position: fixed;
+    padding: 0;
+    right: 4%;
+    visibility: hidden;
+    width: 46px;
+    z-index: 9999; }
+    .post-scroll-marker {
+      height: 0px;
+      position: absolute;
+      top: 100px;
+      width: 0px; }
+        .post-pagination {
+    background: #f1f1f1;
+    -webkit-box-shadow: inset 0 2px 3px rgba(38, 38, 38, 0.1);
+    box-shadow: inset 0 2px 3px rgba(38, 38, 38, 0.1);
+    border-top: 1px solid #d4d4d4;
+    padding: 1.06667rem 0; }
+    .post-pagination > div {
+      line-height: 1.2;
+      padding: 0.53333rem 1.06667rem;
+      text-align: center; }
+      .post-pagination > div span {
+        display: block;
+        color: #6c7175;
+        font-size: 0.7242rem;
+        font-weight: 500;
+        margin-bottom: 0.26667rem;
+        text-transform: uppercase; }
+    .post-pagination-prev a:before {
+      content: "\2190";
+      margin-right: 0.26667rem; }
+    .post-pagination-next a:after {
+      content: "\2192";
+      margin-left: 0.26667rem; }
+
+aside {
+  margin: 1.6rem 0 0; }
+
+.align-left {
+  text-align: left; }
+
+.align-right {
+  text-align: right; }
+
+.align-center {
+  text-align: center; }
+
+.align-justify {
+  text-align: justify; }
+
+.msg {
+  border-left: 2px solid transparent;
+  padding: 1.06667rem 1.06667rem; }
+  .msg--highlight {
+    background-color: #fff8e6;
+    border-color: #e2ac4f; }
+  .msg--info {
+    background: rgba(45, 97, 201, 0.03);
+    border-color: #039be5; }
+  .msg--success {
+    background: #f7fbf6;
+    border-color: #5ab44b; }
+  .msg--warning {
+    background: #fff3f3;
+    border-color: #c06367;
+    color: #a94442; }
+
+.dropcap:first-letter {
+  float: left;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 2.16943rem;
+  line-height: 0.7;
+  margin-right: 0.53333rem;
+  padding: 0.53333rem 0.53333rem 0.53333rem 0; }
+
+.pagination {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin: 0.8rem 0; }
+  .pagination > a {
+    padding-left: 0;
+    padding-right: 0;
+    width: 49%; }
+  .pagination-right {
+    margin-left: auto; }
+
+.bottom {
+  background: #039be5;
+  color: #ffffff;
+  padding: 1.06667rem 4%;
+  text-align: center; }</style><style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript><script async src="https://cdn.ampproject.org/v0.js"></script><script custom-element="amp-animation" src="https://cdn.ampproject.org/v0/amp-animation-0.1.js" async></script><script custom-element="amp-position-observer" src="https://cdn.ampproject.org/v0/amp-position-observer-0.1.js" async></script></head><body class="bg-white"><nav class="navbar wrap-inner" id="top"><div><a on="tap:navbar-sidebar.toggle" class="navbar-sidebar-toggle" title="Menu">Menu</a> <a class="logo logo-text" href="https://dbugtech.com/bstan-preview/amp">Bstan Homes</a></div></nav><main class="wrap-page"><article class="post"><div class="wrap-inner"><header class="post-header"><h1>Bstan Garden</h1><p class="post-meta">[MISSING TRANSLATION] <a href="https://dbugtech.com/bstan-preview/amp/authors/dbug-tech/" rel="nofollow" title="Dbug Tech">Dbug Tech</a> <time datetime="2019-03-09T21:52">false</time></p></header><div class="container with-sidebar docs"><div class="sidebar"><form class="sidebar-search" action="https://getpublii.com/dev/search.html"><span class="algolia-autocomplete"><input class="ds-input" dir="auto" spellcheck="false" autocomplete="off" type="search" placeholder="search..."></span><pre> </pre></form><nav class="sidebar-menu"><ul class="js-sidebar-menu"><li class="active-parent has-submenu">Getting Started<ul><li><a href="https://getpublii.com/dev/">Introduction</a></li><li><a href="https://getpublii.com/dev/handlebars-introduction-for-publii-theme-developers/">Handlebars - intro</a></li><li><a href="https://getpublii.com/dev/how-to-install-a-new-theme/">Installing a new theme</a></li><li class="active"><a href="https://getpublii.com/dev/theme-structure/">Theme structure</a></li><li><a href="https://getpublii.com/dev/how-the-theme-is-rendered/">Rendering theme</a></li><li><a href="https://getpublii.com/dev/theme-configjson-file/">Theme config.json file</a></li><li class="tips"><a href="https://getpublii.com/dev/tags/tips-and-tricks/">Tips and tricks</a></li></ul></li><li class="has-submenu">Handlebars tags<ul><li><a href="https://getpublii.com/dev/introduction-tags/">Introduction</a></li><li class="sub-title has-submenu">Basic items<ul><li><a href="https://getpublii.com/dev/post-tags/">Post</a></li><li><a href="https://getpublii.com/dev/tag-tags/">Tag</a></li><li><a href="https://getpublii.com/dev/author-tags/">Author</a></li><li><a href="https://getpublii.com/dev/featured-image-tags/">Featured image</a></li></ul></li><li class="sub-title has-submenu">Pages<ul><li><a href="https://getpublii.com/dev/homepage-tags/">Homepage</a></li><li><a href="https://getpublii.com/dev/post-page-tags/">Post page</a></li><li><a href="https://getpublii.com/dev/tag-page-tags/">Tag page</a></li><li><a href="https://getpublii.com/dev/author-page-tags/">Author page</a></li><li><a href="https://getpublii.com/dev/search-page-tags/">Search page</a></li><li><a href="https://getpublii.com/dev/404-error-page-tags/">404 error page</a></li></ul></li><li><a href="https://getpublii.com/dev/feed-tags/">XML/JSON Feed</a></li></ul></li><li class="has-submenu">Global variables<ul><li><a href="https://getpublii.com/dev/introduction-global-variables/">Introduction</a></li><li><a href="https://getpublii.com/dev/amp-global-variable/">@amp</a></li><li><a href="https://getpublii.com/dev/config-global-variable/">@config</a></li><li><a href="https://getpublii.com/dev/pagination-global-variable/">@pagination</a></li><li><a href="https://getpublii.com/dev/renderer-global-variable/">@renderer</a></li><li><a href="https://getpublii.com/dev/website-global-variable/">@website</a></li><li><a href="https://getpublii.com/dev/customhtml-global-variable/">@customHTML</a></li></ul></li><li class="has-submenu">Helpers<ul><li><a href="https://getpublii.com/dev/introduction-helpers/">Introduction</a></li><li><a href="https://getpublii.com/dev/amplink-helper/">{{ampLink}}</a></li><li><a href="https://getpublii.com/dev/canonicallink-helper/">{{canonicalLink}}</a></li><li><a href="https://getpublii.com/dev/checkif-helper/">{{#checkIf}}</a></li><li><a href="https://getpublii.com/dev/checkifall-helper/">{{#checkIfAll}}</a></li><li><a href="https://getpublii.com/dev/checkifany-helper/">{{#checkIfAny}}</a></li><li><a href="https://getpublii.com/dev/checkifnone-helper/">{{#checkIfNone}}</a></li><li><a href="https://getpublii.com/dev/css-helper/">{{css}}</a></li><li><a href="https://getpublii.com/dev/date-helper/">{{date}}</a></li><li><a href="https://getpublii.com/dev/encodeurl-helper/">{{encodeUrl}}</a></li><li><a href="https://getpublii.com/dev/encodeurlfragment-helper/">{{encodeUrlFragment}}</a></li><li><a href="https://getpublii.com/dev/feedlink-helper/">{{feedLink}}</a></li><li><a href="https://getpublii.com/dev/font-helper/">{{font}}</a></li><li><a href="https://getpublii.com/dev/gdprScriptBlocker-helper/">{{gdprScriptBlocker}}</a></li><li><a href="https://getpublii.com/dev/imagedimensions-helper/">{{imageDimensions}}</a></li><li><a href="https://getpublii.com/dev/is-helper/">{{#is}}</a></li><li><a href="https://getpublii.com/dev/iscurrentpage-helper/">{{#isCurrentPage}}</a></li><li><a href="https://getpublii.com/dev/isempty-helper/">{{#isEmpty}}</a></li><li><a href="https://getpublii.com/dev/isnotempty/">{{#isNotEmpty}}</a></li><li><a href="https://getpublii.com/dev/js-helper/">{{js}}</a></li><li><a href="https://getpublii.com/dev/jsonify-helper/">{{jsonify}}</a></li><li><a href="https://getpublii.com/dev/jsonld-helper/">{{jsonLD}}</a></li><li><a href="https://getpublii.com/dev/math-helper/">{{math}}</a></li><li><a href="https://getpublii.com/dev/menuitemclasses-helper/">{{menuItemClasses}}</a></li><li><a href="https://getpublii.com/dev/menuurl-helper/">{{menuUrl}}</a></li><li><a href="https://getpublii.com/dev/metadescription-helper/">{{metaDescription}}</a></li><li><a href="https://getpublii.com/dev/metarobots-helper/">{{metaRobots}}</a></li><li><a href="https://getpublii.com/dev/orderby-helper/">{{orderby}}</a></li><li><a href="https://getpublii.com/dev/pageurl-helper/">{{pageUrl}}</a></li><li><a href="https://getpublii.com/dev/publiiFooter/">{{{publiiFooter}}}</a></li><li><a href="https://getpublii.com/dev/publiihead-helper/">{{{publiiHead}}}</a></li><li><a href="https://getpublii.com/dev/responsivesizes-helper/">{{responsiveSizes}}</a></li><li><a href="https://getpublii.com/dev/responsivesrcset-helper/">{{responsiveSrcSet}}</a></li><li><a href="https://getpublii.com/dev/reverse-helper/">{{reverse}}</a></li><li><a href="https://getpublii.com/dev/socialmetatags-helper/">{{socialMetaTags}}</a></li><li><a href="https://getpublii.com/dev/translate-helper/">{{translate}}</a></li><li><a href="https://getpublii.com/dev/getpost-helper/">{{#getPost}}</a></li><li><a href="https://getpublii.com/dev/getposts-helper/">{{#getPosts}}</a></li><li><a href="https://getpublii.com/dev/getpostbytags-helper/">{{#getPostByTags}}</a></li><li><a href="https://getpublii.com/dev/gettag-helper/">{{#getTag}}</a></li><li><a href="https://getpublii.com/dev/gettags-helper/">{{#getTags}}</a></li></ul></li><li class="has-submenu">Partials<ul><li><a href="https://getpublii.com/dev/introduction-partials/">Introduction</a></li><li><a href="https://getpublii.com/dev/footerhbs-partial/">footer.hbs</a></li><li><a href="https://getpublii.com/dev/headerhbs-partial/">header.hbs</a></li><li><a href="https://getpublii.com/dev/menuhbs-partial/">menu.hbs</a></li><li><a href="https://getpublii.com/dev/paginationhbs-partial/">pagination.hbs</a></li><li><a href="https://getpublii.com/dev/creating-custom-partials/">Custom partials</a></li></ul></li></ul></nav></div><div class="content"><article class="content-inner post"><h1>Theme structure</h1><p class="post-updated nocontent">Updated on August 15, 2017</p><div class="post-entry"><p>Every Publii theme should contain some required files, but there are also a few files which can be optionally included in the theme.</p><p>The following files are required:</p><ul><li><strong>config.json</strong> - main theme configuration file,</li><li><strong>index.hbs</strong> - front page template,</li><li><strong>post.hbs</strong> - single post template,</li><li><strong>tag.hbs</strong> - single tag page template,</li><li><strong>author.hbs</strong> - single author page template,</li><li><strong>thumbnail.png</strong> - that will be displayed in the application settings (required dimensions: 400x300px),</li><li><strong>partials/</strong> - location for files which will be loaded with use of the <code>{{&gt; fileName}}</code> code,</li><li><strong>partials/footer.hbs</strong> - footer used in all pages,</li><li><strong>partials/header.hbs</strong> - header used in all pages,</li><li><strong>assets/css/main.css</strong> - main CSS file which is used to generate the <strong>styles.css</strong> file (which is merged with the optionally-generated <strong>override.css</strong> file).</li></ul><p>And these files are optional:</p><ul><li><strong>visual-override.js</strong> - file which contains a function used to <strong>generate the override.css</strong> file,</li><li><strong>feed-xml.hbs</strong> - The structure of the feed XML file - generated as <strong>feed.xml</strong> (the <strong>feed-xml.hbs</strong> file will be replaced with the application's default if one does not exist in the theme),</li><li><strong>feed-json.hbs</strong> - The structure of the feed JSON file - generated as <strong>feed.json</strong> (the <strong>feed-json.hbs</strong>file will be replaced with the application's default if one does not exist in the theme),</li><li><strong>partials/pagination.hbs</strong> - pagination for all pages (the pagination partial will be replaced with the application's default if one it does not exist in the theme),</li><li><strong>partials/menu.hbs</strong> - menu structure for all pages (the menu partial will be replaced with the application's default if one does not exist in the theme).</li></ul></div><aside class="post-similar nocontent"><h3>Similar posts:</h3><ul><li><a href="https://getpublii.com/dev/how-to-install-a-new-theme/">How to install a new theme?</a></li><li><a href="https://getpublii.com/dev/how-the-theme-is-rendered/">How the theme is rendered?</a></li><li><a href="https://getpublii.com/dev/theme-configjson-file/">Theme config.json file</a></li></ul></aside></article></div></div><footer class="footer"><div><a class="footer-logo" href="https://getpublii.com/dev/theme-structure/"><svg><use xlink:href="https://getpublii.com/dev/assets/svg/svg-map.svg#logo"><svg id="logo" viewbox="0 0 513 205" width="100%" height="100%"><path d="M449.193,133.1l.06.01a11.32,11.32,0,0,0,1.48.1,10.291,10.291,0,0,0,10.321-8.838c.444-3.112.471-7.489-1.929-10.668a9.363,9.363,0,0,0-6.487-3.587,9.194,9.194,0,0,0-7.515,2.259,14.232,14.232,0,0,0-4.633,9.361C440.047,126.489,442.573,132.051,449.193,133.1Z"></path><path d="M391.322,133.1l.06.01a11.32,11.32,0,0,0,1.48.1,10.294,10.294,0,0,0,10.323-8.84c.442-3.113.466-7.491-1.933-10.668a9.375,9.375,0,0,0-6.487-3.586,9.207,9.207,0,0,0-7.513,2.259,14.239,14.239,0,0,0-4.632,9.362C382.179,126.489,384.705,132.051,391.322,133.1Z"></path><path d="M510.16,145.475c-1.731-.892-4.2-.429-5.8,2.6-6.28,11.5-20.987,38.43-35.716,38.988-3.683.192-6.333-.788-8.3-3.078-4.547-5.293-5.042-17.371-1.431-34.929a12.323,12.323,0,0,0,.366-2.194c0-3.335-2.432-6.03-6.05-6.708-3.777-.705-8.486.849-10.177,5.2l-.128.457c-.01.049-1.087,6.143-1.966,12.045-11.313,19.049-21.463,28.875-30.187,29.205-3.693.194-6.333-.788-8.3-3.078-4.548-5.293-5.043-17.371-1.431-34.929a12.323,12.323,0,0,0,.366-2.194c0-3.335-2.432-6.03-6.049-6.708-3.771-.7-8.487.848-10.178,5.2l-.129.462c-.012.064-1.281,7.239-2.2,13.673-11.454,19.158-22.877,28.472-34.916,28.472-6.947,0-13.472-3.852-18.468-10.876,10.113-12.626,32.411-50.825,38.031-90.286,3.222-21.108,1.443-36.578-5.145-44.739A17.129,17.129,0,0,0,349.6,35.522c-5.008-.32-9.969,1.743-14.706,6.136C317.71,57.587,306.4,101.772,306.153,125.2c-.269,29.785-.675,74.8,38.355,76.787.7.035,1.381.053,2.062.053,16.936,0,29.42-10.944,37.355-21.094,2.7,8.985,9.313,21.048,25.392,21.047l.388,0c13.177,0,24.411-11.032,32.014-21.306,2.664,9.123,9.259,21.309,25.466,21.309l.391,0c22.172,0,38.977-31.461,42.12-37.767C514.411,154.761,513.635,147.263,510.16,145.475ZM351.215,92.108l-.006.021c-10.042,39.721-14.792,52.272-27.866,71.83-2.789-11.267-3.925-28.018-3.205-37.913,3.929-40.886,20.209-74.418,28.622-74.418.081,0,.163,0,.243.01a2.759,2.759,0,0,1,2.211,1.371C356.245,59.943,353.185,84.776,351.215,92.108Z"></path><path d="M150.311,124.575c27.368-10.747,61.77-31.735,70.214-70.6l.024-.1c1.784-8.351-.612-16.977-6.932-24.944C201.784,14.01,177.082,2.869,154.884,2.442,127.026,1.868,114.24,3.977,89.766,11c.835-5.876-1.1-7.782-4.613-8.9a9.4,9.4,0,0,1-.929-.325C81.568.532,78.559-.876,75.726.7c-2.366,1.318-3.7,4.257-4.321,9.527-.159.812-.31,1.869-.507,3.254-.129.907-.276,1.937-.454,3.081C51.48,22.682,38.218,28.673,18.376,40.043l-.852.474C9.468,44.993.337,50.066,0,60.268,0,61.638.967,71.2,5.186,73.3a4.156,4.156,0,0,0,4.4-.434c2.673-1.786,2.228-4.3,1.989-5.65a2.882,2.882,0,0,1,.407-2.727c6.2-8.107,31.323-21.957,55.681-30.813-2.612,15-7.68,46.151-7.991,63.572,0,6.585-.256,14.982-.707,23.321a7.788,7.788,0,0,1-2.22-1.632,3.932,3.932,0,0,0-4.427-1.148c-2.071.856-2.825,3.257-2.843,5.242-.178,2.341.763,6.82,8.628,11.428-.4,8.666-.855,17.794-1.231,25.357l-.012.245c-.474,9.548-.787,15.855-.786,16.808l-.03.332c-1.1,11.608,2.291,19.3,9.533,21.646a18.216,18.216,0,0,0,5.595,1.156,5.11,5.11,0,0,0,3.481-1.146c2.027-1.779,1.482-4.559,1.085-6.591-.118-.6-.229-1.172-.272-1.579,0-.776-.088-2.806-.242-6.521-.384-9.285-1.171-28.3-1.25-45.142C88.7,139.751,119.772,136.566,150.311,124.575Zm-3.665-13.207c-26.182,10.918-54.989,14.122-72.6,12.513.328-9.01.915-17.36,1.7-24.2,1.365-9.923,2.554-20.508,3.711-30.8,1.789-15.916,3.482-30.973,5.551-40.968,24.732-8.1,42.515-11.992,70.032-10.854,12.751.465,35.546,3.01,44.944,14.832,3.816,4.8,5.051,10.849,3.671,17.971C197.007,83.822,168.984,102.053,146.646,111.368Z"></path><path d="M285.9,123.641l-.015,0c-6.416-.807-12.47,1.257-18,6.135-5.67,5-10,12.319-13.152,19.319a644.134,644.134,0,0,1,15.8-96.083c.388-1.621.578-2.421.669-2.963,1.316-4.981-2.523-11.578-7.931-13.6-1.7-.639-7.538-2.138-11.138,5.292l-.2.409-.041.449c-6.813,72.47-13.405,113.08-13.472,113.484s-.31,1.847-.605,4.053c-6.472,11.533-15.592,24.468-29.024,23.041-6.944-.8-7.983-10.434-7.987-16.02.229-4.116.371-7.677.486-10.548.193-4.815.333-8.295.644-10.035.223-.895.525-1.745.818-2.567.765-2.146,1.555-4.365.418-6.545-.852-1.632-2.574-2.754-5.452-3.54a7.764,7.764,0,0,0-6.135.752c-2.118,1.291-3.6,3.681-4.4,7.081-.614,2.464-1.172,4.941-1.67,7.155-.511,2.268-1.039,4.612-1.629,6.979-2.4,9.639-10.972,25.732-15.539,25.188a3.561,3.561,0,0,1-2.678-1.77c-3.92-6.02-.743-23.891,2.347-34.426.309-1.032.661-2.043,1.014-3.058,1.186-3.4,2.305-6.62.905-9.3a6.343,6.343,0,0,0-4.156-3.073c-3.057-.972-5.637-.837-7.67.4a8.211,8.211,0,0,0-3.623,5.913c-.11.362-.257.83-.435,1.393a168.057,168.057,0,0,0-6.2,25.583c-1.392,9.537,1.072,20.286,6.132,26.749a16.852,16.852,0,0,0,11.736,6.773c11.3.915,18.619-9.727,22.242-16.949,2.785,7.129,9.24,17.561,23.151,17.561h0l.432,0c9.849-.19,18.7-7.289,25.028-14.227a38.754,38.754,0,0,0,2.29,12.365c3.026,7.484,7.357,7.838,9.674,7.387a9.706,9.706,0,0,0,4.051-2c3.167,1.99,9.053,4.391,13.979,4.6.138.006.278.009.423.009,9.343,0,29.463-11.9,33.637-39.4,2.584-16.427,1.213-28.77-3.965-35.693A15.5,15.5,0,0,0,285.9,123.641Zm-3.466,15.2a4.4,4.4,0,0,1,4.356,2.135c3.889,5.881,1.9,21.343-4.346,33.765-4.734,9.416-10.854,15.006-16.76,15.336a8.067,8.067,0,0,1-8.13-5.974C260.938,168.493,270.366,139.452,282.43,138.837Z"></path></svg></use></svg></a><ul class="footer-nav"><li><a href="https://getpublii.com/roadmap/">Roadmap</a></li><li><a href="https://getpublii.com/license/">License</a></li><li><a href="https://getpublii.com/privacy-policy/">Privacy Policy</a></li><li><a href="https://getpublii.com/terms-and-conditions/">Terms and Conditions</a></li><li><a href="https://getpublii.com/about/">About</a></li><li><a href="https://publii.ticksy.com/">Contact Us</a></li></ul></div><div><div class="footer-copy">© 2019 <a href="https://tidycustoms.net/" rel="nofollow">TidyCustoms</a>. Maintained with cooperation with <a href="https://github.com/dziudek" rel="nofollow">Dev Zen</a></div><div class="footer-social"><a href="https://www.facebook.com/publii" title="Facebook" class="facebook"><svg class="icon" aria-hidden="true"><use xlink:href="https://getpublii.com/dev/assets/svg/svg-map.svg#facebook"><svg id="facebook" viewbox="0 0 32 32" width="100%" height="100%"><path d="M30.234 0H1.766A1.766 1.766 0 0 0 0 1.766v28.468A1.766 1.766 0 0 0 1.766 32h15.326V19.608h-4.17v-4.83h4.17v-3.56c0-4.134 2.524-6.385 6.21-6.385a34.216 34.216 0 0 1 3.727.19v4.32h-2.557c-2.005 0-2.394.953-2.394 2.35v3.084h4.78l-.622 4.83h-4.16V32h8.154A1.766 1.766 0 0 0 32 30.234V1.766A1.766 1.766 0 0 0 30.234 0z"></path></svg></use></svg> </a><a href="https://twitter.com/getpublii" title="Twitter" class="twitter"><svg class="icon" aria-hidden="true"><use xlink:href="https://getpublii.com/dev/assets/svg/svg-map.svg#twitter"><svg id="twitter" viewbox="0 0 24.999 20.316" width="100%" height="100%"><path d="M25 2.405a10.253 10.253 0 0 1-2.947.808A5.144 5.144 0 0 0 24.308.376 10.27 10.27 0 0 1 21.05 1.62a5.134 5.134 0 0 0-8.74 4.68A14.56 14.56 0 0 1 1.74.94a5.134 5.134 0 0 0 1.587 6.846 5.108 5.108 0 0 1-2.323-.642v.064a5.132 5.132 0 0 0 4.114 5.03 5.142 5.142 0 0 1-2.316.088 5.134 5.134 0 0 0 4.79 3.562 10.29 10.29 0 0 1-6.37 2.2A10.44 10.44 0 0 1 0 18.012a14.586 14.586 0 0 0 22.454-12.29q0-.333-.015-.662A10.423 10.423 0 0 0 25 2.405z"></path></svg></use></svg> </a><a href="https://www.instagram.com/getpublii/" class="instagram"><svg class="icon" aria-hidden="true"><use xlink:href="https://getpublii.com/dev/assets/svg/svg-map.svg#instagram"><svg id="instagram" viewbox="0 0 32 32" width="100%" height="100%"><path d="M16,2.883c4.272,0,4.778.016,6.465.093a8.853,8.853,0,0,1,2.971.551,4.957,4.957,0,0,1,1.84,1.2,4.957,4.957,0,0,1,1.2,1.84,8.853,8.853,0,0,1,.551,2.971c.077,1.687.093,2.193.093,6.465s-.016,4.778-.093,6.465a8.853,8.853,0,0,1-.551,2.971,5.3,5.3,0,0,1-3.037,3.037,8.853,8.853,0,0,1-2.971.551c-1.687.077-2.193.093-6.465.093s-4.778-.016-6.465-.093a8.853,8.853,0,0,1-2.971-.551,4.957,4.957,0,0,1-1.84-1.2,4.957,4.957,0,0,1-1.2-1.84,8.853,8.853,0,0,1-.551-2.971C2.9,20.778,2.883,20.272,2.883,16s.016-4.778.093-6.465a8.853,8.853,0,0,1,.551-2.971,4.957,4.957,0,0,1,1.2-1.84,4.957,4.957,0,0,1,1.84-1.2,8.853,8.853,0,0,1,2.971-.551C11.222,2.9,11.728,2.883,16,2.883M16,0c-4.345,0-4.89.018-6.6.1A11.744,11.744,0,0,0,5.519.84,7.843,7.843,0,0,0,2.685,2.685,7.843,7.843,0,0,0,.84,5.519,11.744,11.744,0,0,0,.1,9.4C.018,11.11,0,11.655,0,16s.018,4.89.1,6.6A11.744,11.744,0,0,0,.84,26.481a7.843,7.843,0,0,0,1.845,2.834A7.843,7.843,0,0,0,5.519,31.16,11.744,11.744,0,0,0,9.4,31.9c1.707.078,2.251.1,6.6.1s4.89-.018,6.6-.1a11.744,11.744,0,0,0,3.884-.744,8.181,8.181,0,0,0,4.679-4.679A11.744,11.744,0,0,0,31.9,22.6c.078-1.707.1-2.251.1-6.6s-.018-4.89-.1-6.6a11.744,11.744,0,0,0-.744-3.884,7.843,7.843,0,0,0-1.845-2.834A7.843,7.843,0,0,0,26.481.84,11.744,11.744,0,0,0,22.6.1C20.89.018,20.345,0,16,0Zm0,7.784A8.216,8.216,0,1,0,24.216,16,8.216,8.216,0,0,0,16,7.784Zm0,13.55A5.333,5.333,0,1,1,21.333,16,5.333,5.333,0,0,1,16,21.333ZM24.541,5.539a1.92,1.92,0,1,0,1.92,1.92A1.92,1.92,0,0,0,24.541,5.539Z"></path></svg></use></svg> </a><a href="https://pl.pinterest.com/getpublii/" class="pinterest"><svg class="icon" aria-hidden="true"><use xlink:href="https://getpublii.com/dev/assets/svg/svg-map.svg#pinterest"><svg id="pinterest" viewbox="0 0 32 32" width="100%" height="100%"><path d="M16 0a16 16 0 0 0-5.83 30.9 15.34 15.34 0 0 1 .055-4.59c.29-1.25 1.876-7.953 1.876-7.953a5.776 5.776 0 0 1-.478-2.375c0-2.225 1.29-3.886 2.9-3.886a2.01 2.01 0 0 1 2.024 2.254c0 1.373-.874 3.425-1.325 5.327a2.323 2.323 0 0 0 2.37 2.89c2.844 0 5.03-3 5.03-7.326a6.316 6.316 0 0 0-6.683-6.508 6.926 6.926 0 0 0-7.225 6.944 6.224 6.224 0 0 0 1.188 3.65.478.478 0 0 1 .11.46c-.12.504-.39 1.59-.443 1.814-.07.293-.232.355-.535.214-2-.93-3.248-3.852-3.248-6.2 0-5.047 3.667-9.682 10.572-9.682 5.55 0 9.864 3.955 9.864 9.24 0 5.515-3.477 9.953-8.3 9.953a4.282 4.282 0 0 1-3.667-1.837s-.8 3.055-1 3.8a17.885 17.885 0 0 1-1.99 4.195A16 16 0 1 0 16 0z"></path></svg></use></svg></a></div></div></footer><div class="cookie-popup js-cookie-popup cookie-popup--uses-badge"><span class="cookie-popup-label">Cookie Policy</span></div><aside><ul class="post-tag"><li><a href="https://dbugtech.com/bstan-preview/amp/categories/projects/">projects</a></li></ul><div class="post-share"><amp-social-share type="system" width="40" height="40" data-param-text="Bstan Garden"></amp-social-share><amp-social-share type="facebook" width="40" height="40" data-param-app_id="" data-param-text="Bstan Garden" data-param-href="https://dbugtech.com/bstan-preview/amp/bstan-garden/"></amp-social-share><amp-social-share type="twitter" width="40" height="40" data-param-text="Bstan Garden" data-param-url="https://dbugtech.com/bstan-preview/amp/bstan-garden/"></amp-social-share><amp-social-share type="pinterest" width="40" height="40" data-param-url="https://dbugtech.com/bstan-preview/amp/bstan-garden/"></amp-social-share><amp-social-share type="tumblr" width="40" height="40" data-param-text="Bstan Garden" data-param-url="https://dbugtech.com/bstan-preview/amp/bstan-garden/"></amp-social-share><amp-social-share type="whatsapp" width="40" height="40" data-param-text="Bstan Garden"></amp-social-share></div></aside></div></article></main><amp-animation id="showAnim" layout="nodisplay"><script type="application/json">{
+                    "duration": "200ms",
+                    "fill": "both",
+                    "iterations": "1",
+                    "direction": "alternate",
+                    "animations": [{
+                        "selector": ".post-scroll",
+                        "keyframes": [{
+                            "opacity": "1",
+                            "visibility": "visible",
+                            "transform": "scale(1)"
+                        }]
+                    }]
+                }</script></amp-animation><amp-animation id="hideAnim" layout="nodisplay"><script type="application/json">{
+                    "duration": "200ms",
+                    "fill": "both",
+                    "iterations": "1",
+                    "direction": "alternate",
+                    "animations": [{
+                        "selector": ".post-scroll",
+                        "keyframes": [{
+                            "opacity": "0",
+                            "visibility": "hidden",
+                            "transform": "scale(0.1)"
+                        }]
+                    }]
+                }</script></amp-animation><div class="post-scroll-marker"><amp-position-observer on="enter:hideAnim.start; exit:showAnim.start" layout="nodisplay"></amp-position-observer></div><button class="post-scroll" on="tap:top.scrollTo(duration=200)">&#8593;</button><footer class="bottom">Powered by Publii</footer><amp-sidebar id="navbar-sidebar" layout="nodisplay"><ul><li><a href="https://dbugtech.com/bstan-preview/amp/">Home</a></li><li><a href="https://dbugtech.com/bstan-preview/amp/about/">about us</a></li><li><a href="https://dbugtech.com/bstan-preview/amp/services/">services</a></li></ul></amp-sidebar></body></html>
