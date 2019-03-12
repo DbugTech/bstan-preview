@@ -409,3 +409,12 @@ $(document).on("mousemove",function(e) {
   var ay = ($(window).innerHeight()/2- e.pageY)/50;
   card.attr("style", "transform: rotateY("+ax+"deg) rotateX("+ay+"deg);-webkit-transform: rotateY("+ax+"deg) rotateX("+ay+"deg);-moz-transform: rotateY("+ax+"deg) rotateX("+ay+"deg)");
 });
+
+
+// custom scripts and stuff - by maroof
+
+$(document).ready(function(){
+	$('#nav-icon3').click(function(){
+		$(this).toggleClass('open');
+	});
+});
