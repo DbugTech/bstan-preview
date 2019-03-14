@@ -38,25 +38,25 @@ TABLE OF CONTENT
 
 
 
-$(document).ready(function() {
+$(document).ready(function () {
   // Scrollax
   $.Scrollax();
 
-/*------------------------------------
-    1. Owl Carousel
---------------------------------------*/  
+  /*------------------------------------
+      1. Owl Carousel
+  --------------------------------------*/
 
 
-/*---------------------
- Methods Carousel
------------------------*/
+  /*---------------------
+   Methods Carousel
+  -----------------------*/
 
   $('#testmonials').owlCarousel({
     loop: false,
     nav: false,
     dots: false,
     autoplay: true,
-    autoplayTimeout: 4500,  
+    autoplayTimeout: 4500,
     responsiveClass: true,
     autoplayHoverPause: true,
     responsive: {
@@ -76,19 +76,19 @@ $(document).ready(function() {
   })
 
 
-/*---------------------
-Project Detail carousel
------------------------*/
+  /*---------------------
+  Project Detail carousel
+  -----------------------*/
 
   $('#project_detail').owlCarousel({
     loop: true,
     nav: true,
     dots: false,
     autoplay: true,
-    autoplayTimeout: 8000, 
-    navText: ["<i class='fa fa-angle-left'></i>","<i class='fa fa-angle-right'></i>"],   
+    autoplayTimeout: 8000,
+    navText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
     responsiveClass: true,
-    autoplayHoverPause:false,
+    autoplayHoverPause: false,
     responsive: {
       0: {
         items: 1,
@@ -107,18 +107,19 @@ Project Detail carousel
 
 
 
-/*---------------------
-Clients carousel
------------------------*/
+  /*---------------------
+  Clients carousel
+  -----------------------*/
+
 
   $('#our-clients').owlCarousel({
     loop: true,
     nav: false,
     dots: false,
     autoplay: true,
-    autoplayTimeout: 3000,  
+    autoplayTimeout: 3000,
     responsiveClass: true,
-    autoplayHoverPause:false,
+    autoplayHoverPause: false,
     responsive: {
       0: {
         items: 2,
@@ -135,75 +136,102 @@ Clients carousel
     }
   })
 
+  /*---------------------
+  Project Options carousel
+  -----------------------*/
+  $('#project-options').owlCarousel({
+    loop: true,
+    nav: true,
+    dots: true,
+    autoplay: true,
+    autoplayTimeout: 3000,
+    // responsiveClass: true,
+    autoplayHoverPause: false,
+    // responsive: {
+    //   0: {
+    //     items: 1,
+    //     // margin: 50,
+    //   },
+    //   600: {
+    //     items: 3,
+    //     // margin: 30,
+    //   },
+    //   1000: {
+    //     items: 4,
+    //     // margin: 110,
+    //   }
+    // }
+  })
 
-/*------------------------------------
-    2. CountUp
---------------------------------------*/  
 
-    $('.countup').counterUp({
-        delay: 5,
-        time: 200
+  /*------------------------------------
+      2. CountUp
+  --------------------------------------*/
+
+  $('.countup').counterUp({
+    delay: 5,
+    time: 200
+  });
+
+
+  /*------------------------------------
+      3. Pie Chart
+  --------------------------------------*/
+
+
+  /*------------------------------------
+      4. Hover Drop Down
+  --------------------------------------*/
+
+  if ($(window).width() > 991) {
+    $('ul.nav li.dropdown').hover(function () {
+      $(this).find('.dropdown-menu').stop(true, true).delay(100).fadeIn(300);
+    }, function () {
+      $(this).find('.dropdown-menu').stop(true, true).delay(100).fadeOut(300);
+    });
+  }
+
+
+  /*------------------------------------
+      5. 3D Boxes
+  --------------------------------------*/
+  if ($(".project").length !== 0) {
+    $(".project").hover3d({
+      selector: ".project__card"
     });
 
+    $(".movie").hover3d({
+      selector: ".movie__card",
+      shine: true,
+      sensitivity: 20,
+    });
+  }
 
-/*------------------------------------
-    3. Pie Chart
---------------------------------------*/  
-
-
-/*------------------------------------
-    4. Hover Drop Down
---------------------------------------*/    
-
-if ($(window).width() > 991) {
-  $('ul.nav li.dropdown').hover(function() {
-      $(this).find('.dropdown-menu').stop(true, true).delay(100).fadeIn(300);
-  }, function() {
-      $(this).find('.dropdown-menu').stop(true, true).delay(100).fadeOut(300);
-  });
-}
-
-
-/*------------------------------------
-    5. 3D Boxes
---------------------------------------*/ 
-if($(".project").length !== 0) {
-  $(".project").hover3d({
-    selector: ".project__card"
-  });
-
-  $(".movie").hover3d({
-    selector: ".movie__card",
-    shine: true,
-    sensitivity: 20,
-  });
-}
-
-if($(".services-3d").length !== 0) {
-  $(".services-3d").hover3d({
-    selector: ".services__card"
-  });
-$(".movie").hover3d({
-    selector: ".movie__card",
-    shine: true,
-    sensitivity: 20,
-  });  
-}
+  if ($(".services-3d").length !== 0) {
+    $(".services-3d").hover3d({
+      selector: ".services__card"
+    });
+    $(".movie").hover3d({
+      selector: ".movie__card",
+      shine: true,
+      sensitivity: 20,
+    });
+  }
 
 
 
-/*------------------------------------
-    6. Video Modal
---------------------------------------*/ 
+  /*------------------------------------
+      6. Video Modal
+  --------------------------------------*/
 
-  $('#videomodal').on('hidden.bs.modal', function() {
+  $('#videomodal').on('hidden.bs.modal', function () {
     var $this = $(this).find('iframe'),
       tempSrc = $this.attr('src');
     $this.attr('src', "");
     $this.attr('src', tempSrc);
   });
 
-  $('#videomodal').on('hidden.bs.modal', function() {
+  $('#videomodal').on('hidden.bs.modal', function () {
     var html5Video = document.getElementById("htmlVideo");
     if (html5Video != null) {
       html5Video.pause();
@@ -212,93 +240,97 @@ $(".movie").hover3d({
   });
 
 
-/*------------------------------------
-    7. Preloader
---------------------------------------*/ 
+  /*------------------------------------
+      7. Preloader
+  --------------------------------------*/
 
-  $('#preloader').fadeOut('normall', function() {
-      $(this).remove();
+  $('#preloader').fadeOut('normall', function () {
+    $(this).remove();
   });
 
 
-/*------------------------------------
-    8. Scroll To Top
---------------------------------------*/ 
+  /*------------------------------------
+      8. Scroll To Top
+  --------------------------------------*/
 
-    $(window).scroll(function(){
-        if($(this).scrollTop() > 500) {
-            $(".scroll-to-top").fadeIn(400);
-            
-        } else {
-            $(".scroll-to-top").fadeOut(400);
-        }
-    });
- 
-    $(".scroll-to-top").on('click', function(event){
-        event.preventDefault();
-        $("html, body").animate({scrollTop: 0},600);
-    });
+  $(window).scroll(function () {
+    if ($(this).scrollTop() > 500) {
+      $(".scroll-to-top").fadeIn(400);
 
-
-
-
-
-
-/*------------------------------------
-    9. Isotop
---------------------------------------*/  
-
-// external js: isotope.pkgd.js
-// init Isotope
-var $grid = $('.isotope-grid').isotope({
-  itemSelector: '.isotope-item',
-  layoutMode: 'fitRows',
-  getSortData: {
-    name: '.name',
-    symbol: '.symbol',
-    number: '.number parseInt',
-    category: '[data-category]',
-    weight: function( itemElem ) {
-      var weight = $( itemElem ).find('.weight').text();
-      return parseFloat( weight.replace( /[\(\)]/g, '') );
+    } else {
+      $(".scroll-to-top").fadeOut(400);
     }
-  }
-});
-
-// filter functions
-var filterFns = {
-  // show if name ends with -ium
-  ium: function() {
-    var name = $(this).find('.name').text();
-    return name.match( /ium$/ );
-  }
-};
-
-// bind filter button click
-$('#filters').on( 'click', 'button', function() {
-  var filterValue = $( this ).attr('data-filter');
-  // use filterFn if matches value
-  filterValue = filterFns[ filterValue ] || filterValue;
-  $grid.isotope({ filter: filterValue });
-});
-
-
-// change is-checked class on buttons
-$('.parent-isotope').each( function( i, buttonGroup ) {
-  var $buttonGroup = $( buttonGroup );
-  $buttonGroup.on( 'click', 'button', function() {
-    $buttonGroup.find('.is-checked').removeClass('is-checked');
-    $( this ).addClass('is-checked');
   });
-});
+
+  $(".scroll-to-top").on('click', function (event) {
+    event.preventDefault();
+    $("html, body").animate({
+      scrollTop: 0
+    }, 600);
+  });
 
 
 
 
-/*------------------------------------
-    10. WOW
---------------------------------------*/ 
-new WOW().init();
+
+
+  /*------------------------------------
+      9. Isotop
+  --------------------------------------*/
+
+  // external js: isotope.pkgd.js
+  // init Isotope
+  var $grid = $('.isotope-grid').isotope({
+    itemSelector: '.isotope-item',
+    layoutMode: 'fitRows',
+    getSortData: {
+      name: '.name',
+      symbol: '.symbol',
+      number: '.number parseInt',
+      category: '[data-category]',
+      weight: function (itemElem) {
+        var weight = $(itemElem).find('.weight').text();
+        return parseFloat(weight.replace(/[\(\)]/g, ''));
+      }
+    }
+  });
+
+  // filter functions
+  var filterFns = {
+    // show if name ends with -ium
+    ium: function () {
+      var name = $(this).find('.name').text();
+      return name.match(/ium$/);
+    }
+  };
+
+  // bind filter button click
+  $('#filters').on('click', 'button', function () {
+    var filterValue = $(this).attr('data-filter');
+    // use filterFn if matches value
+    filterValue = filterFns[filterValue] || filterValue;
+    $grid.isotope({
+      filter: filterValue
+    });
+  });
+
+
+  // change is-checked class on buttons
+  $('.parent-isotope').each(function (i, buttonGroup) {
+    var $buttonGroup = $(buttonGroup);
+    $buttonGroup.on('click', 'button', function () {
+      $buttonGroup.find('.is-checked').removeClass('is-checked');
+      $(this).addClass('is-checked');
+    });
+  });
+
+
+
+
+  /*------------------------------------
+      10. WOW
+  --------------------------------------*/
+  new WOW().init();
 
 
 });
@@ -306,20 +338,20 @@ new WOW().init();
 
 /*------------------------------------
     11. Seacrh
---------------------------------------*/ 
+--------------------------------------*/
 function openNav() {
-    document.getElementById("search_nav").style.width = "100%";
+  document.getElementById("search_nav").style.width = "100%";
 }
 
 function closeNav() {
-    document.getElementById("search_nav").style.width = "0%";
+  document.getElementById("search_nav").style.width = "0%";
 }
 
 
 
 /*------------------------------------
     12. Swiper Slider
---------------------------------------*/ 
+--------------------------------------*/
 var swiper = new Swiper('.swiper-container', {
   speed: 600,
   parallax: true,
@@ -333,14 +365,14 @@ var swiper = new Swiper('.swiper-container', {
   },
   autoplay: {
     delay: 5000,
-  },  
+  },
 });
 
 
 /*------------------------------------
     13. Youtube Video Background
---------------------------------------*/   
-if($("#video-area").length !== 0) {
+--------------------------------------*/
+if ($("#video-area").length !== 0) {
   $('#video-play').mb_YTPlayer();
 }
 
@@ -348,13 +380,13 @@ if($("#video-area").length !== 0) {
 
 /*------------------------------------
     14. 3D Effect
---------------------------------------*/ 
+--------------------------------------*/
 var card = $(".video-effect-box");
 
-$(document).on("mousemove",function(e) {  
-  var ax = -($(window).innerWidth()/2- e.pageX)/100;
-  var ay = ($(window).innerHeight()/2- e.pageY)/100;
-  card.attr("style", "transform: rotateY("+ax+"deg) rotateX("+ay+"deg);-webkit-transform: rotateY("+ax+"deg) rotateX("+ay+"deg);-moz-transform: rotateY("+ax+"deg) rotateX("+ay+"deg)");
+$(document).on("mousemove", function (e) {
+  var ax = -($(window).innerWidth() / 2 - e.pageX) / 100;
+  var ay = ($(window).innerHeight() / 2 - e.pageY) / 100;
+  card.attr("style", "transform: rotateY(" + ax + "deg) rotateX(" + ay + "deg);-webkit-transform: rotateY(" + ax + "deg) rotateX(" + ay + "deg);-moz-transform: rotateY(" + ax + "deg) rotateX(" + ay + "deg)");
 });
 
 
@@ -363,9 +395,9 @@ $(document).on("mousemove",function(e) {
 
 /*------------------------------------
     15. Input Number
---------------------------------------*/ 
+--------------------------------------*/
 jQuery('<div class="quantity-nav"><div class="quantity-button quantity-up">+</div><div class="quantity-button quantity-down">-</div></div>').insertAfter('.quantity input');
-jQuery('.quantity').each(function() {
+jQuery('.quantity').each(function () {
   var spinner = jQuery(this),
     input = spinner.find('input[type="number"]'),
     btnUp = spinner.find('.quantity-up'),
@@ -373,7 +405,7 @@ jQuery('.quantity').each(function() {
     min = input.attr('min'),
     max = input.attr('max');
 
-  btnUp.click(function() {
+  btnUp.click(function () {
     var oldValue = parseFloat(input.val());
     if (oldValue >= max) {
       var newVal = oldValue;
@@ -384,7 +416,7 @@ jQuery('.quantity').each(function() {
     spinner.find("input").trigger("change");
   });
 
-  btnDown.click(function() {
+  btnDown.click(function () {
     var oldValue = parseFloat(input.val());
     if (oldValue <= min) {
       var newVal = oldValue;
@@ -401,20 +433,20 @@ jQuery('.quantity').each(function() {
 
 /*------------------------------------
     16. 404 Page Effect
---------------------------------------*/ 
+--------------------------------------*/
 var card = $(".error-box");
 
-$(document).on("mousemove",function(e) {  
-  var ax = -($(window).innerWidth()/2- e.pageX)/50;
-  var ay = ($(window).innerHeight()/2- e.pageY)/50;
-  card.attr("style", "transform: rotateY("+ax+"deg) rotateX("+ay+"deg);-webkit-transform: rotateY("+ax+"deg) rotateX("+ay+"deg);-moz-transform: rotateY("+ax+"deg) rotateX("+ay+"deg)");
+$(document).on("mousemove", function (e) {
+  var ax = -($(window).innerWidth() / 2 - e.pageX) / 50;
+  var ay = ($(window).innerHeight() / 2 - e.pageY) / 50;
+  card.attr("style", "transform: rotateY(" + ax + "deg) rotateX(" + ay + "deg);-webkit-transform: rotateY(" + ax + "deg) rotateX(" + ay + "deg);-moz-transform: rotateY(" + ax + "deg) rotateX(" + ay + "deg)");
 });
 
 
 // custom scripts and stuff - by maroof
 
-$(document).ready(function(){
-	$('#nav-icon3').click(function(){
-		$(this).toggleClass('open');
-	});
+$(document).ready(function () {
+  $('#nav-icon3').click(function () {
+    $(this).toggleClass('open');
+  });
 });

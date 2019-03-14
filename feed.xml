@@ -3,7 +3,7 @@
     <title>Bstan Homes</title>
     <link href="https://dbugtech.com/bstan-preview/feed.xml" rel="self" />
     <link href="https://dbugtech.com/bstan-preview" />
-    <updated>2019-03-13T23:47:15+01:00</updated>
+    <updated>2019-03-14T14:00:35+01:00</updated>
     <author>
         <name>Dbug Tech</name>
     </author>
@@ -53,7 +53,7 @@
         <link href="https://dbugtech.com/bstan-preview/cherryfield-estate/"/>
         <id>https://dbugtech.com/bstan-preview/cherryfield-estate/</id>
 
-        <updated>2019-03-13T23:23:50+01:00</updated>
+        <updated>2019-03-14T06:39:23+01:00</updated>
             <summary>
                 <![CDATA[
                      CHERYFIELD ESTATE, Ushafa/Kubwa District Type: TERRACE DUPLEXRooms: 2Size: 200sqmStatus: READYHouse Price: N13.5MLand Price: N2.5MBSTAN GARDEN, City Hilltop(Apo)Type: BUNGALOWRooms: 3Size: 500sqmStatus: READYHouse Price: N18MLand Price: N5.5MBSTAN GARDEN, City Hilltop(Apo)Type: TERRACE DUPLEXRooms:&hellip;
@@ -209,6 +209,24 @@
 <div class="mt-30" style="align-items: center;"><a href="#" class="button-md dark-button">Request Information</a></div>
 </div>
 </div>
+<div id="requestModal" class="modal fade mt-85">
+<div class="modal-dialog"><!-- Modal content-->
+<div class="modal-content">
+<div class="modal-header"><button class="close icon-cancel" type="button" ></button>
+<h4 id="mcetoc_1d5sig8442" class="modal-title">Modal Header</h4>
+</div>
+<div class="modal-body">
+<div class="row contact-box-message"><form class="request-form" autocomplete="off" method="post">
+<div class="col-xs-12"><input name="name" type="text" placeholder="Full Name"></div>
+<div class="col-xs-12"><input name="email" type="email" placeholder="E-mail adress"></div>
+<div class="col-xs-12"><input name="phone" type="tel" placeholder="Phone"></div>
+<div class="col-xs-12"><textarea name="message" placeholder="Is there anything else you'll like to know"></textarea></div>
+<div class="col-xs-12"><button class="center-holder button-md full-width mt-20 primary-button rounded-border" type="submit">Send Message</button></div>
+</form></div>
+</div>
+</div>
+</div>
+</div>
             ]]>
         </content>
     </entry>
@@ -220,7 +238,7 @@
         <link href="https://dbugtech.com/bstan-preview/bgc-pinalce-estate/"/>
         <id>https://dbugtech.com/bstan-preview/bgc-pinalce-estate/</id>
 
-        <updated>2019-03-13T23:24:11+01:00</updated>
+        <updated>2019-03-14T06:38:56+01:00</updated>
             <summary>
                 <![CDATA[
                      BGC PINACLE ESTATE, Karasana NorthType: PENT HOUSERooms: 3Size: 400sqmStatus: READYHouse Price: N30MLand Price: N7MBSTAN GARDEN, City Hilltop(Apo)Type: FULLY DETACHED DUPLEXRooms: 4Size: 500sqmStatus: READYHouse Price: N45MLand Price: N8.5MBSTAN GARDEN, City Hilltop(Apo)Type:&hellip;
@@ -328,7 +346,25 @@
 </div>
 </div>
 </div>
-<div class="mt-30" style="align-items: center;"><a href="#" class="button-md dark-button">Request Information</a></div>
+<div class="mt-30" style="align-items: center;"><a href="#" class="button-lg dark-button">Request Information</a></div>
+</div>
+</div>
+<div id="requestModal" class="modal fade mt-85">
+<div class="modal-dialog"><!-- Modal content-->
+<div class="modal-content">
+<div class="modal-header"><button class="close icon-cancel" type="button" ></button>
+<h4 id="mcetoc_1d5sig8442" class="modal-title">Modal Header</h4>
+</div>
+<div class="modal-body">
+<div class="row contact-box-message"><form class="request-form" autocomplete="off" method="post">
+<div class="col-xs-12"><input name="name" type="text" placeholder="Full Name"></div>
+<div class="col-xs-12"><input name="email" type="email" placeholder="E-mail adress"></div>
+<div class="col-xs-12"><input name="phone" type="tel" placeholder="Phone"></div>
+<div class="col-xs-12"><textarea name="message" placeholder="Is there anything else you'll like to know"></textarea></div>
+<div class="col-xs-12"><button class="center-holder button-md full-width mt-20 primary-button rounded-border" type="submit">Send Message</button></div>
+</form></div>
+</div>
+</div>
 </div>
 </div>
             ]]>
@@ -342,7 +378,7 @@
         <link href="https://dbugtech.com/bstan-preview/casablanca-estate/"/>
         <id>https://dbugtech.com/bstan-preview/casablanca-estate/</id>
 
-        <updated>2019-03-13T23:24:27+01:00</updated>
+        <updated>2019-03-14T06:38:25+01:00</updated>
             <summary>
                 <![CDATA[
                      CASABLANCA ESTATE, Gwarimpa DistrictType: TERRACE DUPLEXRooms: 4Status: READYExtras: BQPrice: N60M (with flexible payment plan)About This ProjectCasablanca is a beautifully finished Smart Homes, located at Road 35, along 3rd Avenue, Gwarimpa&hellip;
@@ -379,26 +415,31 @@
 <div class="project-detail-1-info">
 <h3 id="mcetoc_1d5sig8441">About This Project</h3>
 <div class="text-content">
-<p>Casablanca is a beautifully finished Smart Homes, located at Road 35, along 3rd Avenue, Gwarimpa District, Abuja. Don’t miss your chance to live in your next dream home in the heart of Gwarimpa. The living area is airy with a feeling of liberation. Attached, there is a large private terrace running through the entire length of the apartment including a kids playground and private Jacuzzi. Overall, the layout of this residence has been well thought out to include spacious bedrooms, walk in wardrobes and stunning en0suite bathrooms. <br> <br> The garden is particularly impressive with ample garden in front, side and back, making the house well positioned on the plot. The upstairs offers a living family area, a large master and en suite bedroom as well as two other bedrooms sharing a jack and hill bathroom.</p>
+<p>Casablanca is a beautifully finished Smart Homes, located at Road 35, along 3rd Avenue, Gwarimpa District, Abuja. Don’t miss your chance to live in your next dream home in the heart of Gwarimpa. The living area is airy with a feeling of liberation. Attached, there is a large private terrace running through the entire length of the apartment including a kids playground and private Jacuzzi. Overall, the layout of this residence has been well thought out to include spacious bedrooms, walk in wardrobes and stunning en0suite bathrooms.</p>
+<p>The garden is particularly impressive with ample garden in front, side and back, making the house well positioned on the plot. The upstairs offers a living family area, a large master and en suite bedroom as well as two other bedrooms sharing a jack and hill bathroom.</p>
 </div>
 </div>
 </div>
 </div>
-<button class="button-md dark-button" style="align-items: center;" type="button"  >Request Information</button> <!--model--> <!--     <button type="button" class="btn btn-info btn-lg"  >Open Modal</button> --> <!-- Modal -->
-<div id="myModal" class="modal fade">
+<button class="button-lg dark-button" style="align-items: center;" type="button"  >Request Information</button></div>
+</div>
+<div id="requestModal" class="modal fade mt-85">
 <div class="modal-dialog"><!-- Modal content-->
 <div class="modal-content">
-<div class="modal-header"><button class="close" type="button" >×</button>
+<div class="modal-header"><button class="close icon-cancel" type="button" ></button>
 <h4 id="mcetoc_1d5sig8442" class="modal-title">Modal Header</h4>
 </div>
-<div class="modal-body"><form>
-<div class="form-group"><label for="exampleInputEmail1">Email address</label> <input id="exampleInputEmail1" class="form-control" type="email" placeholder="Email"></div>
-<div class="form-group"><label for="exampleInputPassword1">Password</label> <input id="exampleInputPassword1" class="form-control" type="password" placeholder="Password"></div>
-<button class="btn btn-default" style="position: right;" type="submit">Submit</button></form></div>
+<div class="modal-body">
+<div class="row contact-box-message"><form class="request-form" autocomplete="off" method="post">
+<div class="col-xs-12"><input name="name" type="text" placeholder="Full Name"></div>
+<div class="col-xs-12"><input name="email" type="email" placeholder="E-mail adress"></div>
+<div class="col-xs-12"><input name="phone" type="tel" placeholder="Phone"></div>
+<div class="col-xs-12"><textarea name="message" placeholder="Is there anything else you'll like to know"></textarea></div>
+<div class="col-xs-12"><button class="center-holder button-md full-width mt-20 primary-button rounded-border" type="submit">Send Message</button></div>
+</form></div>
 </div>
 </div>
 </div>
-<!-- end   --></div>
 </div>
             ]]>
         </content>
@@ -411,7 +452,7 @@
         <link href="https://dbugtech.com/bstan-preview/events/"/>
         <id>https://dbugtech.com/bstan-preview/events/</id>
 
-        <updated>2019-03-13T23:33:35+01:00</updated>
+        <updated>2019-03-14T10:49:13+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -435,7 +476,7 @@
         <link href="https://dbugtech.com/bstan-preview/about/"/>
         <id>https://dbugtech.com/bstan-preview/about/</id>
 
-        <updated>2019-03-13T23:03:24+01:00</updated>
+        <updated>2019-03-14T09:07:54+01:00</updated>
             <summary>
                 <![CDATA[
                     About UsWelcome! We at Bstan Homes Provide Affordable Housing Solutions for All.We Provide Personal and Corporate Housing Solutions and making buying and selling of real estate as cost effective as&hellip;
@@ -471,42 +512,42 @@
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4 no-padding">
 <div class="blog-modern fadeInLeft wow animated" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInLeft;">
-<div class="center-holder"> </div>
+<div class="center-holder"><span class="icon-book-bag"> </span> </div>
 <h4 id="mcetoc_1d5sb2coej">Professionalism</h4>
-<p>the competence or skill expected of a professional. </p>
+<p>the competence or skill expected of a professional.</p>
 </div>
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4 no-padding">
 <div class="blog-modern fadeInLeft wow animated" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInLeft;">
-<div class="center-holder"> </div>
+<div class="center-holder"><span class="icon-book-bag"> </span> </div>
 <h4 id="mcetoc_1d5sb2coek">Integrity</h4>
 <p>High standards of honesty and strong moral principles. Doing the right thing all the time with no exemption.</p>
 </div>
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4 no-padding">
 <div class="blog-modern fadeInLeft wow animated" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInLeft;">
-<div class="center-holder"> </div>
+<div class="center-holder"> <span class="icon-book-bag"> </span></div>
 <h4 id="mcetoc_1d5sb2coel">Excellence</h4>
 <p>Commitment in all we do for our internal and external customers. First rate and superior service. Ownership of the outcome.</p>
 </div>
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4 no-padding">
 <div class="blog-modern fadeInLeft wow animated" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInLeft;">
-<div class="center-holder"> </div>
+<div class="center-holder"><span class="icon-book-bag"> </span> </div>
 <h4 id="mcetoc_1d5sb2coem">Fearless</h4>
 <p>the competence or skill expected of a professional.</p>
 </div>
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4 no-padding">
 <div class="blog-modern fadeInLeft wow animated" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInLeft;">
-<div class="center-holder"> </div>
+<div class="center-holder"> <span class="icon-book-bag"> </span></div>
 <h4 id="mcetoc_1d5sb2coen">Inspire</h4>
 <p>To motivate, influence, energize and stimulate the work environment.</p>
 </div>
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4 no-padding">
 <div class="blog-modern fadeInLeft wow animated" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInLeft;">
-<div class="center-holder"> </div>
+<div class="center-holder"><span class="icon-book-bag"> </span> </div>
 <h4 id="mcetoc_1d5sb2coeo">Innovation</h4>
 <p>progressive, enlightening forward-thinkers who engaging in new ideas for better solutions and streamlining processes</p>
 </div>
@@ -526,7 +567,7 @@
         <link href="https://dbugtech.com/bstan-preview/bstan-garden/"/>
         <id>https://dbugtech.com/bstan-preview/bstan-garden/</id>
 
-        <updated>2019-03-13T23:17:10+01:00</updated>
+        <updated>2019-03-14T09:19:34+01:00</updated>
             <summary>
                 <![CDATA[
                      BGC PINACLE ESTATE, Karasana NorthType: PENT HOUSERooms: 3Size: 400sqmStatus: READYHouse Price: N30MLand Price: N7MBSTAN GARDEN, City Hilltop(Apo)Type: FULLY DETACHED DUPLEXRooms: 4Size: 500sqmStatus: READYHouse Price: N45MLand Price: N8.5MBSTAN GARDEN, City Hilltop(Apo)Type:&hellip;
@@ -635,6 +676,24 @@
 </div>
 </div>
 <div class="mt-30" style="align-items: center;"><a href="#" class="button-md dark-button">Request Information</a></div>
+</div>
+</div>
+<div id="requestModal" class="modal fade mt-85">
+<div class="modal-dialog"><!-- Modal content-->
+<div class="modal-content">
+<div class="modal-header"><button class="close icon-cancel" type="button" ></button>
+<h4 id="mcetoc_1d5sig8442" class="modal-title">Modal Header</h4>
+</div>
+<div class="modal-body">
+<div class="row contact-box-message"><form class="request-form" autocomplete="off" method="post">
+<div class="col-xs-12"><input name="name" type="text" placeholder="Full Name"></div>
+<div class="col-xs-12"><input name="email" type="email" placeholder="E-mail adress"></div>
+<div class="col-xs-12"><input name="phone" type="tel" placeholder="Phone"></div>
+<div class="col-xs-12"><textarea name="message" placeholder="Is there anything else you'll like to know"></textarea></div>
+<div class="col-xs-12"><button class="center-holder button-md full-width mt-20 primary-button rounded-border" type="submit">Send Message</button></div>
+</form></div>
+</div>
+</div>
 </div>
 </div>
             ]]>
