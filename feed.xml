@@ -3,7 +3,7 @@
     <title>Bstan Homes</title>
     <link href="https://dbugtech.com/bstan-preview/feed.xml" rel="self" />
     <link href="https://dbugtech.com/bstan-preview" />
-    <updated>2019-03-14T14:00:35+01:00</updated>
+    <updated>2019-03-15T05:42:51+01:00</updated>
     <author>
         <name>Dbug Tech</name>
     </author>
@@ -29,7 +29,7 @@
         <link href="https://dbugtech.com/bstan-preview/upcoming-events/"/>
         <id>https://dbugtech.com/bstan-preview/upcoming-events/</id>
 
-        <updated>2019-03-11T17:34:29+01:00</updated>
+        <updated>2019-03-15T05:24:49+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -41,7 +41,7 @@
         <link href="https://dbugtech.com/bstan-preview/past-events/"/>
         <id>https://dbugtech.com/bstan-preview/past-events/</id>
 
-        <updated>2019-03-11T17:34:06+01:00</updated>
+        <updated>2019-03-15T05:24:34+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -53,167 +53,73 @@
         <link href="https://dbugtech.com/bstan-preview/cherryfield-estate/"/>
         <id>https://dbugtech.com/bstan-preview/cherryfield-estate/</id>
 
-        <updated>2019-03-14T06:39:23+01:00</updated>
+        <updated>2019-03-15T05:03:27+01:00</updated>
             <summary>
                 <![CDATA[
-                     CHERYFIELD ESTATE, Ushafa/Kubwa District Type: TERRACE DUPLEXRooms: 2Size: 200sqmStatus: READYHouse Price: N13.5MLand Price: N2.5MBSTAN GARDEN, City Hilltop(Apo)Type: BUNGALOWRooms: 3Size: 500sqmStatus: READYHouse Price: N18MLand Price: N5.5MBSTAN GARDEN, City Hilltop(Apo)Type: TERRACE DUPLEXRooms:&hellip;
+                     CHERYFIELD ESTATE, Ushafa/Kubwa District Types: TERRACE DUPLEX, BUNGALOW, DETACHED DUPLEX, SEMI-DETACHED DUPLEXRooms: 2,3,4,5Status: READYExtras: BQPrice: ₦13.5M - ₦35M (with flexible payment plans)About This ProjectCheryfield Estate is a beautifully finished Smart&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <div class="section-block">
 <div id="particles-js-project_detail"> </div>
-<div class="container"><!-- Swiper -->
-<div class="swiper-container pro">
-<div class="swiper-wrapper">
-<div class="swiper-slide">
+<div class="container">
 <div class="row">
 <div class="col-xs-12 col-md-8 col-sm-8">
 <div id="project_detail" class="owl-carousel owl-theme project-detail-carousel">
-<div class="project-detail-item"><img src="https://via.placeholder.com/750x420" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-1.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-3.jpg" alt="p-detail"></div>
+<div class="project-detail-item"><img src="file:///home/maroof/Dropbox/bstan-homes/input/media/posts/2/p-detail-4.jpg" width="750" height="335"></div>
+<div class="project-detail-item"><img src="file:///home/maroof/Dropbox/bstan-homes/input/media/posts/2/p-detail-1.jpg" width="750" height="200"></div>
+<div class="project-detail-item"><img src="file:///home/maroof/Dropbox/bstan-homes/input/media/posts/2/p-detail-3.jpg" width="940" height="420"></div>
 </div>
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4">
 <div class="project-detail-1">
-<h2 id="mcetoc_1d5sif32b0">CHERYFIELD ESTATE, <br> <span style="font-weight: 200;">Ushafa/Kubwa District </span></h2>
+<h2 id="mcetoc_1d5vlbr3i4">CHERYFIELD ESTATE, <br> <span style="font-weight: 200;">Ushafa/Kubwa District </span></h2>
 <ul>
-<li>Type: TERRACE DUPLEX</li>
-<li>Rooms: 2</li>
-<li>Size: 200sqm</li>
+<li>Types:  TERRACE DUPLEX, BUNGALOW, DETACHED DUPLEX, SEMI-DETACHED DUPLEX</li>
+<li>Rooms: 2,3,4,5</li>
 <li>Status: READY</li>
-<li>House Price: N13.5M</li>
-<li>Land Price: N2.5M</li>
+<li>Extras: BQ</li>
+<li>Price: ₦13.5M - ₦35M (with flexible payment plans)</li>
 </ul>
 </div>
 </div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="row">
-<div class="col-xs-12 col-md-8 col-sm-8">
-<div id="project_detail" class="owl-carousel owl-theme project-detail-carousel">
-<div class="project-detail-item"><img src="img/projects/p-detail-4.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-1.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-3.jpg" alt="p-detail"></div>
-</div>
-</div>
-<div class="col-xs-12 col-sm-4 col-md-4">
-<div class="project-detail-1">
-<h2 id="mcetoc_1d5sif32b1">BSTAN GARDEN, <br> <span style="font-weight: 200;">City Hilltop(Apo)</span></h2>
-<ul>
-<li>Type: BUNGALOW</li>
-<li>Rooms: 3</li>
-<li>Size: 500sqm</li>
-<li>Status: READY</li>
-<li>House Price: N18M</li>
-<li>Land Price: N5.5M</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="row">
-<div class="col-xs-12 col-md-8 col-sm-8">
-<div id="project_detail" class="owl-carousel owl-theme project-detail-carousel">
-<div class="project-detail-item"><img src="img/projects/p-detail-4.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-1.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-3.jpg" alt="p-detail"></div>
-</div>
-</div>
-<div class="col-xs-12 col-sm-4 col-md-4">
-<div class="project-detail-1">
-<h2 id="mcetoc_1d5sif32b2">BSTAN GARDEN, <br> <span style="font-weight: 200;">City Hilltop(Apo)</span></h2>
-<ul>
-<li>Type: TERRACE DUPLEX</li>
-<li>Rooms: 3</li>
-<li>Size: 300sqm</li>
-<li>Status: READY</li>
-<li>House Price: N17M</li>
-<li>Land Price: N3.5M</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="row">
-<div class="col-xs-12 col-md-8 col-sm-8">
-<div id="project_detail" class="owl-carousel owl-theme project-detail-carousel">
-<div class="project-detail-item"><img src="img/projects/p-detail-4.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-1.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-3.jpg" alt="p-detail"></div>
-</div>
-</div>
-<div class="col-xs-12 col-sm-4 col-md-4">
-<div class="project-detail-1">
-<h2 id="mcetoc_1d5sif32b3">BSTAN GARDEN, <br> <span style="font-weight: 200;">City Hilltop(Apo)</span></h2>
-<ul>
-<li>Type: SEMI-DETACHED DUPLEX</li>
-<li>Rooms: 4</li>
-<li>Size: 400sqm</li>
-<li>Status: READY</li>
-<li>House Price: N25M</li>
-<li>Land Price: N4M</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="row">
-<div class="col-xs-12 col-md-8 col-sm-8">
-<div id="project_detail" class="owl-carousel owl-theme project-detail-carousel">
-<div class="project-detail-item"><img src="img/projects/p-detail-4.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-1.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-3.jpg" alt="p-detail"></div>
-</div>
-</div>
-<div class="col-xs-12 col-sm-4 col-md-4">
-<div class="project-detail-1">
-<h2 id="mcetoc_1d5sif32b4">BSTAN GARDEN, <br> <span style="font-weight: 200;">City Hilltop(Apo)</span></h2>
-<ul>
-<li>Type: FULLY DETACHED DUPLEX</li>
-<li>Rooms: 5</li>
-<li>Size: 600sqm</li>
-<li>Status: READY</li>
-<li>Extra: BQ</li>
-<li>House Price: N35M</li>
-<li>Land Price: N5.5M</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<!--       <div class="swiper-slide">Slide 6</div>
-      <div class="swiper-slide">Slide 7</div>
-      <div class="swiper-slide">Slide 8</div>
-      <div class="swiper-slide">Slide 9</div>
-      <div class="swiper-slide">Slide 10</div> --></div>
-<!-- Add Arrows -->
-<div class="swiper-button-next"> </div>
-<div class="swiper-button-prev"> </div>
 </div>
 <div class="row mt-50">
 <div class="col-md-12">
 <div class="project-detail-1-info">
-<h3 id="mcetoc_1d5sif32b5">About This Project</h3>
+<h3 id="mcetoc_1d5vkq9ud1">About This Project</h3>
 <div class="text-content">
-<p>Cheryfield Estate is a beautifully finished Smart Homes. We provide the most affordable luxurious home in Nigeria. Located at the New Ushafa FCDA layout with beautiful serene infrastructure beside Kubwa District, Abuja. <br> <br> The perfect place to raise children with ample space for children to explore, your home will hold many happy memories. Here, they can discover nature and its wonderful creatures, make new friendships in the play areas or enjoy quality outdoor time with mom and dad.</p>
+<p>Cheryfield Estate is a beautifully finished Smart Homes. We provide the most affordable luxurious home in Nigeria. Located at the New Ushafa FCDA layout with beautiful serene infrastructure beside Kubwa District, Abuja.</p>
+<p>The perfect place to raise children with ample space for children to explore, your home will hold many happy memories. Here, they can discover nature and its wonderful creatures, make new friendships in the play areas or enjoy quality outdoor time with mom and dad.</p>
+<p><strong>2 BEDROOMS TERRACE DUPLEX (200sqm)</strong> -</p>
+<p>LAND PRICE: 2.5 MILLION</p>
+<p>HOUSE PRICE: 13.5 MILLION</p>
+<p><strong>3 BEDROOMS BUNGALOW (500sqm)</strong> -</p>
+<p>LAND PRICE: 5.5 MILLION</p>
+<p>HOUSE PRICE: 18 MILLION</p>
+<p><strong>3 BEDROOMS TERRACE DUPLEX (300sqm)</strong></p>
+<p>LAND PRICE: 3.5 MILLION</p>
+<p>HOUSE PRICE: 17.5 MILLION</p>
+<p><strong>4 BEDROOMS SEMI-DETACHED DUPLEX (400sqm)</strong></p>
+<p>LAND PRICE: 4 MILLION</p>
+<p>HOUSE PRICE: 25 MILLION</p>
+<p><strong>5 BEDROOM FULLY DETACHED DUPLEX WITH BQ (600 sqm) </strong></p>
+<p>LAND PRICE: 5.5 MILLION</p>
+<p>HOUSE PRICE: 35 MILLION</p>
+<p> </p>
 </div>
 </div>
 </div>
 </div>
-<div class="mt-30" style="align-items: center;"><a href="#" class="button-md dark-button">Request Information</a></div>
+<button class="button-lg dark-button" style="align-items: center;" type="button"  >Request Information</button></div>
 </div>
-</div>
+<!-- end   --> <!-- request modal -->
 <div id="requestModal" class="modal fade mt-85">
-<div class="modal-dialog"><!-- Modal content-->
+<div class="modal-dialog">
 <div class="modal-content">
 <div class="modal-header"><button class="close icon-cancel" type="button" ></button>
-<h4 id="mcetoc_1d5sig8442" class="modal-title">Modal Header</h4>
+<h4 id="mcetoc_1d5sig8442" class="modal-title">On this property</h4>
 </div>
 <div class="modal-body">
 <div class="row contact-box-message"><form class="request-form" autocomplete="off" method="post">
@@ -227,6 +133,7 @@
 </div>
 </div>
 </div>
+<!-- end of request modal -->
             ]]>
         </content>
     </entry>
@@ -238,122 +145,65 @@
         <link href="https://dbugtech.com/bstan-preview/bgc-pinalce-estate/"/>
         <id>https://dbugtech.com/bstan-preview/bgc-pinalce-estate/</id>
 
-        <updated>2019-03-14T06:38:56+01:00</updated>
+        <updated>2019-03-15T05:13:09+01:00</updated>
             <summary>
                 <![CDATA[
-                     BGC PINACLE ESTATE, Karasana NorthType: PENT HOUSERooms: 3Size: 400sqmStatus: READYHouse Price: N30MLand Price: N7MBSTAN GARDEN, City Hilltop(Apo)Type: FULLY DETACHED DUPLEXRooms: 4Size: 500sqmStatus: READYHouse Price: N45MLand Price: N8.5MBSTAN GARDEN, City Hilltop(Apo)Type:&hellip;
+                     BGC PINACLE ESTATE, Karasana North Types: PENT HOUSE, DETACHED DUPLEXRooms: 3,4,5Status: READYExtras: CCTV Surveillance, Alternative Power SourcePrice: ₦30M - ₦50M (with flexible payment plans)About This ProjectBGC Pinacle Estate is a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <div class="section-block">
 <div id="particles-js-project_detail"> </div>
-<div class="container"><!-- Swiper -->
-<div class="swiper-container pro">
-<div class="swiper-wrapper">
-<div class="swiper-slide">
+<div class="container">
 <div class="row">
 <div class="col-xs-12 col-md-8 col-sm-8">
 <div id="project_detail" class="owl-carousel owl-theme project-detail-carousel">
-<div class="project-detail-item"><img src="img/projects/p-detail-4.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-1.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-3.jpg" alt="p-detail"></div>
+<div class="project-detail-item"><img src="file:///home/maroof/Dropbox/bstan-homes/input/media/posts/2/p-detail-4.jpg" width="750" height="335"></div>
+<div class="project-detail-item"><img src="file:///home/maroof/Dropbox/bstan-homes/input/media/posts/2/p-detail-1.jpg" width="750" height="200"></div>
+<div class="project-detail-item"><img src="file:///home/maroof/Dropbox/bstan-homes/input/media/posts/2/p-detail-3.jpg" width="940" height="420"></div>
 </div>
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4">
 <div class="project-detail-1">
-<h2 id="mcetoc_1d5sifoab0">BGC PINACLE ESTATE, <br> <span style="font-weight: 200;">Karasana North</span></h2>
+<h2 id="mcetoc_1d5vlbr3i4">BGC PINACLE ESTATE, <br> <span style="font-weight: 200;">Karasana North </span></h2>
 <ul>
-<li>Type: PENT HOUSE</li>
-<li>Rooms: 3</li>
-<li>Size: 400sqm</li>
+<li>Types:  PENT HOUSE, DETACHED DUPLEX</li>
+<li>Rooms: 3,4,5</li>
 <li>Status: READY</li>
-<li>House Price: N30M</li>
-<li>Land Price: N7M</li>
+<li>Extras: CCTV Surveillance, Alternative Power Source</li>
+<li>Price: ₦30M - ₦50M (with flexible payment plans)</li>
 </ul>
 </div>
 </div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="row">
-<div class="col-xs-12 col-md-8 col-sm-8">
-<div id="project_detail" class="owl-carousel owl-theme project-detail-carousel">
-<div class="project-detail-item"><img src="img/projects/p-detail-4.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-1.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-3.jpg" alt="p-detail"></div>
-</div>
-</div>
-<div class="col-xs-12 col-sm-4 col-md-4">
-<div class="project-detail-1">
-<h2 id="mcetoc_1d5sifoab1">BSTAN GARDEN, <br> <span style="font-weight: 200;">City Hilltop(Apo)</span></h2>
-<ul>
-<li>Type: FULLY DETACHED DUPLEX</li>
-<li>Rooms: 4</li>
-<li>Size: 500sqm</li>
-<li>Status: READY</li>
-<li>House Price: N45M</li>
-<li>Land Price: N8.5M</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="row">
-<div class="col-xs-12 col-md-8 col-sm-8">
-<div id="project_detail" class="owl-carousel owl-theme project-detail-carousel">
-<div class="project-detail-item"><img src="img/projects/p-detail-4.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-1.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-3.jpg" alt="p-detail"></div>
-</div>
-</div>
-<div class="col-xs-12 col-sm-4 col-md-4">
-<div class="project-detail-1">
-<h2 id="mcetoc_1d5sifoab2">BSTAN GARDEN, <br> <span style="font-weight: 200;">City Hilltop(Apo)</span></h2>
-<ul>
-<li>Type: FULLY DETACHED DUPLEX</li>
-<li>Rooms: 5</li>
-<li>Size: 600sqm</li>
-<li>Status: READY</li>
-<li>House Price: N50M</li>
-<li>Land Price: N10M</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<!--       <div class="swiper-slide">
-      </div>
-      <div class="swiper-slide">
-
-      </div> --> <!--       <div class="swiper-slide">Slide 6</div>
-      <div class="swiper-slide">Slide 7</div>
-      <div class="swiper-slide">Slide 8</div>
-      <div class="swiper-slide">Slide 9</div>
-      <div class="swiper-slide">Slide 10</div> --></div>
-<!-- Add Arrows -->
-<div class="swiper-button-next"> </div>
-<div class="swiper-button-prev"> </div>
 </div>
 <div class="row mt-50">
 <div class="col-md-12">
 <div class="project-detail-1-info">
-<h3 id="mcetoc_1d5sifoab3">About This Project</h3>
+<h3 id="mcetoc_1d5vkq9ud1">About This Project</h3>
 <div class="text-content">
 <p>BGC Pinacle Estate is a beautifully finished Smart Homes. We provide the most affordable luxurious home in Nigeria. The estate has salient features like Proper Landscapig for orchard, Good Road Network, Unbeatable Security Patrol System, Lawn Tennis Court, Green Areas, Maximum Parking Spaces, 24/7 CCTV Surveillance, Alternative Power Source, Worship Centres, Street and Public Area Lighting, Shopping Centre, Police Post and Clinic.</p>
+<p><strong>3 BEDROOMS PENT HOUSE (400sqm)</strong> -</p>
+<p>LAND PRICE: 7 MILLION</p>
+<p>HOUSE PRICE: 30 MILLION</p>
+<p><strong>4 BEDROOMS FULLY DETACHED DUPLEX (500sqm)</strong> -</p>
+<p>LAND PRICE: 8.5 MILLION</p>
+<p>HOUSE PRICE: 45 MILLION</p>
+<p><strong>5 BEDROOMS FULLY DETACHED DUPLEX (600sqm)</strong></p>
+<p>LAND PRICE: 10 MILLION</p>
+<p>HOUSE PRICE: 50 MILLION</p>
 </div>
 </div>
 </div>
 </div>
-<div class="mt-30" style="align-items: center;"><a href="#" class="button-lg dark-button">Request Information</a></div>
+<button class="button-lg dark-button" style="align-items: center;" type="button"  >Request Information</button></div>
 </div>
-</div>
+<!-- end   --> <!-- request modal -->
 <div id="requestModal" class="modal fade mt-85">
-<div class="modal-dialog"><!-- Modal content-->
+<div class="modal-dialog">
 <div class="modal-content">
 <div class="modal-header"><button class="close icon-cancel" type="button" ></button>
-<h4 id="mcetoc_1d5sig8442" class="modal-title">Modal Header</h4>
+<h4 id="mcetoc_1d5sig8442" class="modal-title">On this property</h4>
 </div>
 <div class="modal-body">
 <div class="row contact-box-message"><form class="request-form" autocomplete="off" method="post">
@@ -367,6 +217,7 @@
 </div>
 </div>
 </div>
+<!-- end of request modal -->
             ]]>
         </content>
     </entry>
@@ -378,10 +229,10 @@
         <link href="https://dbugtech.com/bstan-preview/casablanca-estate/"/>
         <id>https://dbugtech.com/bstan-preview/casablanca-estate/</id>
 
-        <updated>2019-03-14T06:38:25+01:00</updated>
+        <updated>2019-03-15T04:49:57+01:00</updated>
             <summary>
                 <![CDATA[
-                     CASABLANCA ESTATE, Gwarimpa DistrictType: TERRACE DUPLEXRooms: 4Status: READYExtras: BQPrice: N60M (with flexible payment plan)About This ProjectCasablanca is a beautifully finished Smart Homes, located at Road 35, along 3rd Avenue, Gwarimpa&hellip;
+                     CASABLANCA ESTATE, Gwarimpa DistrictType: TERRACE DUPLEXRooms: 4Status: READYExtras: BQPrice: ₦60M (with flexible payment plan)About This ProjectCasablanca is a beautifully finished Smart Homes, located at Road 35, along 3rd Avenue, Gwarimpa&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -392,20 +243,20 @@
 <div class="row">
 <div class="col-xs-12 col-md-8 col-sm-8">
 <div id="project_detail" class="owl-carousel owl-theme project-detail-carousel">
-<div class="project-detail-item"><img src="img/projects/p-detail-4.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-1.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-3.jpg" alt="p-detail"></div>
+<div class="project-detail-item"><img src="https://dbugtech.com/bstan-preview/media/posts/6/p-detail-4.jpg" width="750" height="420"></div>
+<div class="project-detail-item"><img src="https://dbugtech.com/bstan-preview/media/posts/6/p-detail-1.jpg" width="750" height="420"></div>
+<div class="project-detail-item"><img src="https://dbugtech.com/bstan-preview/media/posts/6/p-detail-3.jpg" width="750" height="420"></div>
 </div>
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4">
 <div class="project-detail-1">
-<h2 id="mcetoc_1d5sig8440">CASABLANCA ESTATE, <br> <span style="font-weight: 200;">Gwarimpa District</span></h2>
+<h2 id="mcetoc_1d5vkm3k0f">CASABLANCA ESTATE, <br> <span style="font-weight: 200;">Gwarimpa District</span></h2>
 <ul>
 <li>Type: TERRACE DUPLEX</li>
 <li>Rooms: 4</li>
 <li>Status: READY</li>
 <li>Extras: BQ</li>
-<li>Price: N60M (with flexible payment plan)</li>
+<li>Price: ₦60M (with flexible payment plan)</li>
 </ul>
 </div>
 </div>
@@ -413,21 +264,23 @@
 <div class="row mt-50">
 <div class="col-md-12">
 <div class="project-detail-1-info">
-<h3 id="mcetoc_1d5sig8441">About This Project</h3>
+<h3 id="mcetoc_1d5vkm3k0g">About This Project</h3>
 <div class="text-content">
 <p>Casablanca is a beautifully finished Smart Homes, located at Road 35, along 3rd Avenue, Gwarimpa District, Abuja. Don’t miss your chance to live in your next dream home in the heart of Gwarimpa. The living area is airy with a feeling of liberation. Attached, there is a large private terrace running through the entire length of the apartment including a kids playground and private Jacuzzi. Overall, the layout of this residence has been well thought out to include spacious bedrooms, walk in wardrobes and stunning en0suite bathrooms.</p>
 <p>The garden is particularly impressive with ample garden in front, side and back, making the house well positioned on the plot. The upstairs offers a living family area, a large master and en suite bedroom as well as two other bedrooms sharing a jack and hill bathroom.</p>
+<p><strong>4 BEDROOM TERRACE DUPLEX WITH BQ</strong> ₦60M (with flexible payment plan)</p>
 </div>
 </div>
 </div>
 </div>
 <button class="button-lg dark-button" style="align-items: center;" type="button"  >Request Information</button></div>
 </div>
+<!-- end   --> <!-- request modal -->
 <div id="requestModal" class="modal fade mt-85">
-<div class="modal-dialog"><!-- Modal content-->
+<div class="modal-dialog">
 <div class="modal-content">
 <div class="modal-header"><button class="close icon-cancel" type="button" ></button>
-<h4 id="mcetoc_1d5sig8442" class="modal-title">Modal Header</h4>
+<h4 id="mcetoc_1d5sig8442" class="modal-title">On this property</h4>
 </div>
 <div class="modal-body">
 <div class="row contact-box-message"><form class="request-form" autocomplete="off" method="post">
@@ -441,6 +294,7 @@
 </div>
 </div>
 </div>
+<!-- end of request modal -->
             ]]>
         </content>
     </entry>
@@ -452,7 +306,7 @@
         <link href="https://dbugtech.com/bstan-preview/events/"/>
         <id>https://dbugtech.com/bstan-preview/events/</id>
 
-        <updated>2019-03-14T10:49:13+01:00</updated>
+        <updated>2019-03-15T05:24:25+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -567,122 +421,69 @@
         <link href="https://dbugtech.com/bstan-preview/bstan-garden/"/>
         <id>https://dbugtech.com/bstan-preview/bstan-garden/</id>
 
-        <updated>2019-03-14T09:19:34+01:00</updated>
+        <updated>2019-03-15T04:46:49+01:00</updated>
             <summary>
                 <![CDATA[
-                     BGC PINACLE ESTATE, Karasana NorthType: PENT HOUSERooms: 3Size: 400sqmStatus: READYHouse Price: N30MLand Price: N7MBSTAN GARDEN, City Hilltop(Apo)Type: FULLY DETACHED DUPLEXRooms: 4Size: 500sqmStatus: READYHouse Price: N45MLand Price: N8.5MBSTAN GARDEN, City Hilltop(Apo)Type:&hellip;
+                     BSTAN GARDEN, City Hilltop (Apo)Type: DUPLEX, PENT HOUSE, BLOCK OF FLATRooms: 2,3,4,5Status: READYExtras: BQPrice: ₦15M - ₦45M (with flexible payment plans)About This ProjectAn oasis of greenery set on the hill&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <div class="section-block">
 <div id="particles-js-project_detail"> </div>
-<div class="container"><!-- Swiper -->
-<div class="swiper-container pro">
-<div class="swiper-wrapper">
-<div class="swiper-slide">
+<div class="container">
 <div class="row">
 <div class="col-xs-12 col-md-8 col-sm-8">
 <div id="project_detail" class="owl-carousel owl-theme project-detail-carousel">
-<div class="project-detail-item"><img src="https://via.placeholder.com/750x420" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-1.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-3.jpg" alt="p-detail"></div>
+<div class="project-detail-item"><img src="https://dbugtech.com/bstan-preview/media/posts/2/p-detail-4.jpg" width="750" height="335"></div>
+<div class="project-detail-item"><img src="https://dbugtech.com/bstan-preview/media/posts/2/p-detail-1.jpg" width="750" height="200"></div>
+<div class="project-detail-item"><img src="https://dbugtech.com/bstan-preview/media/posts/2/p-detail-3.jpg" width="940" height="420"></div>
 </div>
 </div>
 <div class="col-xs-12 col-sm-4 col-md-4">
 <div class="project-detail-1">
-<h2 id="mcetoc_1d5shmepf0">BGC PINACLE ESTATE, <br> <span style="font-weight: 200;">Karasana North</span></h2>
+<h2 id="mcetoc_1d5vlbr3i4">BSTAN GARDEN, <br> <span style="font-weight: 200;">City Hilltop (Apo)</span></h2>
 <ul>
-<li>Type: PENT HOUSE</li>
-<li>Rooms: 3</li>
-<li>Size: 400sqm</li>
+<li>Type:  DUPLEX, PENT HOUSE, BLOCK OF FLAT</li>
+<li>Rooms: 2,3,4,5</li>
 <li>Status: READY</li>
-<li>House Price: N30M</li>
-<li>Land Price: N7M</li>
+<li>Extras: BQ</li>
+<li>Price: ₦15M - ₦45M (with flexible payment plans)</li>
 </ul>
 </div>
 </div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="row">
-<div class="col-xs-12 col-md-8 col-sm-8">
-<div id="project_detail" class="owl-carousel owl-theme project-detail-carousel">
-<div class="project-detail-item"><img src="img/projects/p-detail-4.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-1.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-3.jpg" alt="p-detail"></div>
-</div>
-</div>
-<div class="col-xs-12 col-sm-4 col-md-4">
-<div class="project-detail-1">
-<h2 id="mcetoc_1d5shmepf1">BSTAN GARDEN, <br> <span style="font-weight: 200;">City Hilltop(Apo)</span></h2>
-<ul>
-<li>Type: FULLY DETACHED DUPLEX</li>
-<li>Rooms: 4</li>
-<li>Size: 500sqm</li>
-<li>Status: READY</li>
-<li>House Price: N45M</li>
-<li>Land Price: N8.5M</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="row">
-<div class="col-xs-12 col-md-8 col-sm-8">
-<div id="project_detail" class="owl-carousel owl-theme project-detail-carousel">
-<div class="project-detail-item"><img src="img/projects/p-detail-4.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-1.jpg" alt="p-detail"></div>
-<div class="project-detail-item"><img src="img/projects/p-detail-3.jpg" alt="p-detail"></div>
-</div>
-</div>
-<div class="col-xs-12 col-sm-4 col-md-4">
-<div class="project-detail-1">
-<h2 id="mcetoc_1d5shmepf2">BSTAN GARDEN, <br> <span style="font-weight: 200;">City Hilltop(Apo)</span></h2>
-<ul>
-<li>Type: FULLY DETACHED DUPLEX</li>
-<li>Rooms: 5</li>
-<li>Size: 600sqm</li>
-<li>Status: READY</li>
-<li>House Price: N50M</li>
-<li>Land Price: N10M</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<!--       <div class="swiper-slide">
-      </div>
-      <div class="swiper-slide">
-
-      </div> --> <!--       <div class="swiper-slide">Slide 6</div>
-      <div class="swiper-slide">Slide 7</div>
-      <div class="swiper-slide">Slide 8</div>
-      <div class="swiper-slide">Slide 9</div>
-      <div class="swiper-slide">Slide 10</div> --></div>
-<!-- Add Arrows -->
-<div class="swiper-button-next"> </div>
-<div class="swiper-button-prev"> </div>
 </div>
 <div class="row mt-50">
 <div class="col-md-12">
 <div class="project-detail-1-info">
-<h3 id="mcetoc_1d5shmepf3">About This Project</h3>
+<h3 id="mcetoc_1d5vkq9ud1">About This Project</h3>
 <div class="text-content">
-<p>BGC Pinacle Estate is a beautifully finished Smart Homes. We provide the most affordable luxurious home in Nigeria. The estate has salient features like Proper Landscapig for orchard, Good Road Network, Unbeatable Security Patrol System, Lawn Tennis Court, Green Areas, Maximum Parking Spaces, 24/7 CCTV Surveillance, Alternative Power Source, Worship Centres, Street and Public Area Lighting, Shopping Centre, Police Post and Clinic.</p>
+<p>An oasis of greenery set on the hill of Apo, the natural city hill also showcased beautifully as an architectural device that create lines of sight and rhythm across the area. A sanctuary of luxurious tranquility, there are acres of space in the park where residents can easily leave the stresses of city life far behind. Homes set on the estate can literally boast of beautiful greenery of city top views with access of city commerce.</p>
+<p>A variety of beautiful, themed areas will appeal to every age and interest whether it’s a relaxing green enclave for family, a place to benefit from some exercise, a buzzing place for tourism, maybe you just want the view and more. Tress and hedges, pathways and trails streams and restful feature throughout.</p>
+<p><strong>2 BEDROOMS BLOCK OF FLAT (1000sqm)</strong> - HOUSE PRICE: 15 MILLION</p>
+<p><strong>3 BEDROOMS BLOCK OF FLAT (1200sqm)</strong> - HOUSE PRICE: 18 MILLION</p>
+<p><strong>3 BEDROOMS PENT HOUSE (500sqm) </strong></p>
+<p>LAND PRICE: 10 MILLION,</p>
+<p>HOUSE PRICE: 28 MILLION</p>
+<p><strong>4 BEDROOMS SEMI DETACHED DUPLEX (325sqm)</strong></p>
+<p>LAND PRICE: 6 MILLION,</p>
+<p>HOUSE PRICE: 32 MILLION</p>
+<p><strong>5 BEDROOMS DETACHED DUPLEX (600sqm) </strong></p>
+<p>LAND PRICE: 13.5 MILLION,</p>
+<p>HOUSE PRICE: 45 MILLION</p>
+<p> </p>
 </div>
 </div>
 </div>
 </div>
-<div class="mt-30" style="align-items: center;"><a href="#" class="button-md dark-button">Request Information</a></div>
+<button class="button-lg dark-button" style="align-items: center;" type="button"  >Request Information</button></div>
 </div>
-</div>
+<!-- end   --> <!-- request modal -->
 <div id="requestModal" class="modal fade mt-85">
-<div class="modal-dialog"><!-- Modal content-->
+<div class="modal-dialog">
 <div class="modal-content">
 <div class="modal-header"><button class="close icon-cancel" type="button" ></button>
-<h4 id="mcetoc_1d5sig8442" class="modal-title">Modal Header</h4>
+<h4 id="mcetoc_1d5sig8442" class="modal-title">On this property</h4>
 </div>
 <div class="modal-body">
 <div class="row contact-box-message"><form class="request-form" autocomplete="off" method="post">
@@ -696,6 +497,7 @@
 </div>
 </div>
 </div>
+<!-- end of request modal -->
             ]]>
         </content>
     </entry>
