@@ -148,13 +148,13 @@
 
 .navbar-header-custom {
     background: #fff;
-    padding: 15px 0
+    padding: 10px 0
 }
 
 .navbar-logo img {
     max-width: 100%;
     margin-left: 15px;
-    max-height: 50px
+    max-height: 60px
 }
 
 .navbar-custom {
@@ -3643,7 +3643,7 @@ footer a:hover {
 /* custom - by maroof */
 
 
-/* got this bit from bootsnip 
+/* got this bit from bootsnip - menu toggle animation
 - here https://bootsnipp.com/snippets/PEkG1 */
 #nav-icon3 {
     width: 54px;
@@ -3701,7 +3701,7 @@ footer a:hover {
     transform: rotate(-45deg);
 }
 
-/* fixactive navbar link highlight */
+/* fix active navbar link highlight */
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
@@ -3720,6 +3720,7 @@ footer a:hover {
 .navbar-links-custom .dropdown ul .active a {
     color: #f8811c;
 }
+
 /* -------------------------------------- */
 
 /* request form modal info */
@@ -3755,4 +3756,180 @@ footer a:hover {
 .request-form textarea:focus {
     border-color: #f8811c
 }
+
 /* ---------------------------------------- */
+
+/* got this bit from codrops
+textinput effects - chisato
+ */
+.input {
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
+}
+
+.input__field {
+    position: relative;
+    padding: 2em;
+    border: none;
+    border-radius: 0;
+    background: #f0f0f0;
+    color: #aaa;
+    font-weight: 400;
+    font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    -webkit-appearance: none;
+    /* for box shadows to show on iOS */
+}
+
+
+.input__label {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+
+
+/* Chisato */
+
+.input--chisato {
+    padding-top: 2.2em;
+}
+
+.input__field--chisato {
+    width: 100%;
+    background: transparent;
+    border: 3px solid;
+    color: #fff;
+    -webkit-transition: border-color 0.25s;
+    transition: border-color 0.25s;
+}
+
+.input__label--chisato {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    text-align: left;
+    overflow: hidden;
+    padding: 0;
+    font-size: 0;
+    pointer-events: none;
+    -webkit-transform: translate3d(0, 3em, 0);
+    transform: translate3d(0, 3em, 0);
+}
+
+.input__label-content--chisato {
+    font-weight: 400;
+    color: #b5b5b5;
+}
+
+.input__label-content--chisato::after {
+    content: attr(data-content);
+    position: absolute;
+    top: -200%;
+    left: 0;
+    color: #f8811c;
+    font-weight: 800;
+    font-size: 2em
+}
+
+.input__field--chisato:focus,
+.input--filled .input__field--chisato {
+    border-color: #f8811c;
+}
+
+.input__field--chisato:focus+.input__label--chisato,
+.input--filled .input__label--chisato {
+    -webkit-animation: anim-chisato-1 0.25s forwards;
+    animation: anim-chisato-1 0.25s forwards;
+}
+
+.input__field--chisato:focus+.input__label--chisato .input__label-content--chisato,
+.input--filled .input__label-content--chisato {
+    -webkit-animation: anim-chisato-2 0.25s forwards ease-in;
+    animation: anim-chisato-2 0.25s forwards ease-in;
+}
+
+@-webkit-keyframes anim-chisato-1 {
+
+    0%,
+    70% {
+        -webkit-transform: translate3d(0, 3em, 0);
+        transform: translate3d(0, 3em, 0);
+    }
+
+    71%,
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+@-webkit-keyframes anim-chisato-2 {
+    0% {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+
+    70%,
+    71% {
+        -webkit-transform: translate3d(0, 125%, 0);
+        transform: translate3d(0, 125%, 0);
+        opacity: 0;
+        -webkit-animation-timing-function: ease-out;
+    }
+
+    100% {
+        color: transparent;
+        -webkit-transform: translate3d(0, 200%, 0);
+        transform: translate3d(0, 200%, 0);
+    }
+}
+
+@keyframes anim-chisato-1 {
+
+    0%,
+    70% {
+        -webkit-transform: translate3d(0, 3em, 0);
+        transform: translate3d(0, 3em, 0);
+    }
+
+    71%,
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+@keyframes anim-chisato-2 {
+    0% {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+
+    70%,
+    71% {
+        -webkit-transform: translate3d(0, 125%, 0);
+        transform: translate3d(0, 125%, 0);
+        opacity: 0;
+        -webkit-animation-timing-function: ease-out;
+    }
+
+    100% {
+        color: transparent;
+        -webkit-transform: translate3d(0, 200%, 0);
+        transform: translate3d(0, 200%, 0);
+    }
+}
+
+/* customise the navbar */
+#bstan-navbar-collapse {
+    margin-bottom: 0px;
+}

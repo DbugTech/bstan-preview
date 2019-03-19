@@ -364,7 +364,7 @@ var swiper = new Swiper('.swiper-container', {
     prevEl: '.swiper-button-prev',
   },
   autoplay: {
-    delay: 5000,
+    delay: 6000,
   },
 });
 
